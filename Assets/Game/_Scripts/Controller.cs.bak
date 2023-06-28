@@ -1,0 +1,258 @@
+﻿using System.Collections;
+
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using TMPro;
+using GoogleMobileAds;
+using GoogleMobileAds.Api;
+using System;
+using UnityEngine.Events;
+using System.Threading.Tasks;
+using UnityEngine.Audio;
+
+[System.Serializable]
+public struct BannerCode {
+    public string androidID,IosID;
+
+}
+
+[System.Serializable]
+public class AdmobManager {
+    public string appIdAndroid,appIdIos,DeviceId;
+    public BannerCode myBannerCode;
+
+    public void InitializeApp()
+    {
+#if UNITY_ANDROID
+        string appId = appIdAndroid;
+#elif UNITY_IPHONE
+            string appId = appIdIos;
+#else
+            string appId = "unexpected_platform";
+#endif
+
+        // Initialize the Google Mobile Ads SDK.
+        Debug.Log("iniciado");
+        MobileAds.Initialize(appId);
+    }
+
+   public void RequestBanner()
+    {
+        BannerView bannerView;
+#if UNITY_ANDROID
+        string adUnitId = myBannerCode.androidID;
+
+#elif UNITY_IPHONE
+      string adUnitId =  myBannerCode.IosID;
+#else
+      string adUnitId = "unexpected_platform";
+#endif
+
+        // Create a 320x50 banner at the top of the screen.
+        bannerView = new BannerView(adUnitId, AdSize.Banner, AdPosition.Top);
+        // Called when an ad request has successfully loaded.
+        bannerView.OnAdLoaded += HandleOnAdLoaded;
+        // Called when an ad request failed to load.
+        bannerView.OnAdFailedToLoad += HandleOnAdFailedToLoad;
+        // Called when an ad is clicked.
+        bannerView.OnAdOpening += HandleOnAdOpened;
+        // Called when the user returned from the app after an ad click.
+        bannerView.OnAdClosed += HandleOnAdClosed;
+        // Called when the ad click caused the user to leave the application.
+        bannerView.OnAdLeavingApplication += HandleOnAdLeavingApplication;
+
+        // Create an empty ad request.
+        AdRequest request = new AdRequest.Builder().Build();
+        Debug.Log("hecho");
+        // Load the banner with the request.
+        bannerView.LoadAd(request);
+    }
+
+    public void HandleOnAdLoaded(object sender, EventArgs args)
+    {
+        MonoBehaviour.print("HandleAdLoaded event received");
+    }
+
+    public void HandleOnAdFailedToLoad(object sender, AdFailedToLoadEventArgs args)
+    {
+        MonoBehaviour.print("HandleFailedToReceiveAd event received with message: "
+                            + args.Message);
+    }
+
+    public void HandleOnAdOpened(object sender, EventArgs args)
+    {
+        MonoBehaviour.print("HandleAdOpened event received");
+    }
+
+    public void HandleOnAdClosed(object sender, EventArgs args)
+    {
+        MonoBehaviour.print("HandleAdClosed event received");
+    }
+
+    public void HandleOnAdLeavingApplication(object sender, EventArgs args)
+    {
+        MonoBehaviour.print("HandleAdLeavingApplication event received");
+    }
+}
+public class Controller : MonoBehaviour {
+    public TextMeshProUGUI maxScore, Score, gameOverScore, myCoins,gameOverCoins;
+   int coins =0;
+	public WallsManager myWallsM;
+	public SpriteRenderer myBackground;
+	public Canvas myMainCanvas;
+    public Button pauseButton;
+    public Toggle[] music, sound;
+   // public AdmobManager myAdMobManager;
+    public int Coins { get => coins; set => coins = value; }
+    private SqliteDatabase sqlDB;
+   public AudioMixer myAM;
+    public DataTable PlayerDT { get; private set; }
+    public DataTable mySettings;
+    //public ScrollingUVs_PDS mysuvs;
+    public GameObject startbutton, gottaGetFastBG,killingCatController;
+    public UnityEvent gamePaused, gameUnpaused;
+    /*void OnValidate(){
+		myBackground.transform.position =new Vector3(myBackground.transform.position.x,myBackground.transform.position.y,myMainCanvas.transform.position.z + 1);
+
+	}*/
+    // Use this for initialization
+    
+    private void OnEnable()
+    {
+
+        sqlDB = new SqliteDatabase("doug777.db");
+        PlayerDT = sqlDB.ExecuteQuery("SELECT * FROM Player");
+        mySettings = sqlDB.ExecuteQuery("SELECT * FROM Config");
+        Valores.LoadConfig(mySettings);
+        Valores.LoadSpriteFile(PlayerDT);
+        Valores.LoadMaxScore(PlayerDT);
+        Valores.LoadCoins(PlayerDT);
+        // mysuvs.transform.localScale = Vector2.one* Mathf.Max(Camera.main.pixelWidth,Camera.main.pixelHeight);
+        FindObjectOfType<SplashChecker>().SplashCheck();
+
+    }
+    void Start () {
+        
+        //	OnValidate ();
+        maxScore.text = Valores.maxPoints.ToString();
+        coins = 0;
+        FindObjectOfType<PlayerManager>().PlayerLose.AddListener(() =>gameOverScore.text = Score.text);
+        FindObjectOfType<PlayerManager>().PlayerLose.AddListener(() =>FindObjectOfType<SplashChecker>().gameOver.GetComponent<AudioSource>().Play());
+        FindObjectOfType<PlayerManager>().PlayerLose.AddListener(() =>Valores.SaveCoins(ref sqlDB) );
+        FindObjectOfType<AdsManager>().Request_Banner();
+        /*myAdMobManager.InitializeApp();
+        FindObjectOfType<PlayerManager>().PlayerLose.AddListener(myAdMobManager.RequestBanner);*/
+        // FindObjectOfType<PlayerManager>().PlayerLose.AddListener();
+       FindObjectOfType<PlayerManager>().PlayerLose.AddListener(()=>Valores.SaveMaxScore(ref sqlDB));
+        pauseButton.onClick.AddListener(PauseTheGame);
+       /* myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/MusicButton").GetComponent<Toggle>().onValueChanged.AddListener(MuteMusic);
+
+        myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/MusicButton").GetComponent<Toggle>().onValueChanged.AddListener((b)=>myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/MusicButton/Ban").GetComponent<Image>().enabled = !b);
+
+        myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/SoundButton").GetComponent<Toggle>().onValueChanged.AddListener(MuteSound);
+
+        myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/SoundButton").GetComponent<Toggle>().onValueChanged.AddListener((b) => myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/SoundButton/Ban").GetComponent<Image>().enabled = !b);
+        myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/SoundButton").GetComponent<Toggle>().isOn = Valores.hasSound;
+        myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/MusicButton").GetComponent<Toggle>().isOn = Valores.hasMusic;
+        myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/SoundButton/Ban").GetComponent<Image>().enabled = !Valores.hasSound;
+        myMainCanvas.transform.Find("GameOverPanel/Settings_Button/SettingsBar/MusicButton/Ban").GetComponent<Image>().enabled = !Valores.hasMusic;*/
+       // MuteMusic(Valores.hasMusic);
+       // MuteSound(Valores.hasSound);
+        // startbutton.SetActive(true);
+        InitializeMuteButton(Valores.hasMusic, Valores.hasSound);
+       
+    }
+
+    private void InitializeMuteButton(bool hasMusic, bool hasSound)
+    {
+        foreach (Toggle tgl in music)
+        {
+            tgl.isOn = hasMusic;
+            tgl.onValueChanged.Invoke(tgl.isOn);
+        }
+        foreach (Toggle tgl in sound)
+        {
+            tgl.isOn = hasSound;
+            tgl.onValueChanged.Invoke(tgl.isOn);
+        }
+    }
+
+    public void SaveSpriteFile() {
+
+        Valores.SaveSpriteFile(ref sqlDB);
+    }
+	// Update is called once per frame
+	void Update () {
+
+        if (Time.timeScale != 0)
+        {
+            Score.text = Mathf.RoundToInt(myWallsM.Score).ToString("D2");
+            myCoins.text = coins.ToString("D2");
+        }
+        if (myWallsM.Score>Valores.maxPoints) {
+            Valores.maxPoints = (int) myWallsM.Score;
+        }
+	}
+    public void MuteMusic(bool hasSound) {
+        if (hasSound)
+            myAM.SetFloat("MusicVol",0f);
+        else
+            myAM.SetFloat("MusicVol", -80f);
+        Valores.hasMusic = hasSound;
+        Valores.SaveConfig(ref sqlDB);
+        
+    }
+    public void MuteSound(bool hasSound)
+    {
+        if (hasSound)
+            myAM.SetFloat("SoundVol", 0f);
+        else
+            myAM.SetFloat("SoundVol", -80f);
+        Valores.hasSound = hasSound;
+        Valores.SaveConfig(ref sqlDB);
+
+    }
+    public void Reset(){
+        Time.timeScale = 1;
+        FindObjectOfType<AdsManager>().Destruir_Banner();
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex, LoadSceneMode.Single);
+	}
+
+    public async void RetryReset() {
+        Scene s = SceneManager.GetActiveScene();
+        AsyncOperation loads= SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex, LoadSceneMode.Single);
+        loads.allowSceneActivation = false;
+        await Task.Delay(250);
+        loads.allowSceneActivation = true;
+        
+      
+    }
+
+    void PauseTheGame() {
+        Time.timeScale = 0;
+        myMainCanvas.transform.Find("PausePanel").GetComponent<Animator>().SetBool("paused", true);
+        gamePaused.Invoke();
+        
+    }
+
+    public async void UnpuaseTheGame()
+    {
+        myMainCanvas.transform.Find("PausePanel").GetComponent<Animator>().SetBool("paused", false);
+        //Debug.Log(myMainCanvas.transform.Find("PausePanel").GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("Ui_Paused_In"));
+        gameUnpaused.Invoke();
+        await Task.Delay(300);
+        Time.timeScale = 1;
+    }
+    private void OnApplicationPause(bool pause)
+    {
+        if (pause)
+            gamePaused.Invoke();
+    }
+
+    public void SendGameOverCoins() {
+        gameOverCoins.text = coins != 1 ? "You earned "+coins+" coins" : "You earned 1 coin";
+
+    }
+}

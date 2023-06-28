@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2891920eb65c2d166a8bfc2b46733687:2d4b405628c2fcd827b1daa48e65210d:c0264d4a0f2a1706ef7b259907b02845$
+#
+:format=40300
+:texture=Ui_Shop.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+Panel_Backgrounds;1;1280;1012;767; 0.5;0.5; 0;0;0;0
+Panel_BuyCoins;1015;1280;1012;767; 0.5;0.5; 0;0;0;0
+Panel_RemoveAds;1;511;1012;767; 0.5;0.5; 0;0;0;0
+Photo_Mask;1015;99;997;1179; 0.5;0.5; 0;0;0;0

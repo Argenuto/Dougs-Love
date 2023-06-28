@@ -1,0 +1,5 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+google.no.ads,published,managed_by_android,false,en_US;No ads;Quit all the advertisement in all the game;es_ES;Sin Publicidad;quita toda la publicidad en toda el juego,true,1500000,
+google.500coins,published,managed_by_android,false,en_US;500 coins;earn 500 coins more;es_ES;500 monedas;gana 500 monedas mas,true,1000000,
+1500_coins,published,managed_by_android,false,en_US;1500 coins;earn 1500 coins more;es_ES;1500 monedas;gana 1500 monedas mas,true,2000000,
+google.5500coins,published,managed_by_android,false,en_US;5500 coins;earn 5.500 coins more;es_ES;5500 monedas;gana 5.500 monedas mas,true,2000000,

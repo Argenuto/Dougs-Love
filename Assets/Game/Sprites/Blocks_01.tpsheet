@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:81f4284c563015f804a1e19d0b03f5df:e46658b30ff2ba513bce829925e990a2:36a758d6be4e654229912b18fe5688a0$
+#
+:format=40300
+:texture=Blocks_01.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+BBlock_L01;1;1219;374;828; 0.5;0.5; 0;0;0;0
+BBlock_L02;377;1219;374;828; 0.5;0.5; 0;0;0;0
+BBlock_L03;753;1219;374;828; 0.5;0.5; 0;0;0;0
+BBlock_L04;1129;1219;374;828; 0.5;0.5; 0;0;0;0
+BBlock_L05;1505;1219;374;828; 0.5;0.5; 0;0;0;0
+BBlock_L06;1;389;374;828; 0.5;0.5; 0;0;0;0
+BBlock_L07;377;389;374;828; 0.5;0.5; 0;0;0;0
+BBlock_LRooftop;753;471;310;746; 0.5;0.5; 0;0;0;0
+Rooftop_Chain;1065;860;948;357; 0.5;0.5; 0;0;0;0

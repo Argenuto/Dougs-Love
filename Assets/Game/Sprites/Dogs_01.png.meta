@@ -1,0 +1,2188 @@
+fileFormatVersion: 2
+guid: c68fb3e7bae4a2a4fa9dbfffe41939ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Dogs_01
+  - first:
+      213: 21300002
+    second: Charlie_Falling01
+  - first:
+      213: 21300004
+    second: Charlie_Falling02
+  - first:
+      213: 21300006
+    second: Charlie_Falling03
+  - first:
+      213: 21300008
+    second: Charlie_Falling04
+  - first:
+      213: 21300010
+    second: Charlie_Falling05
+  - first:
+      213: 21300012
+    second: Charlie_Falling06
+  - first:
+      213: 21300014
+    second: Charlie_Flying01
+  - first:
+      213: 21300016
+    second: Charlie_Flying02
+  - first:
+      213: 21300018
+    second: Charlie_Flying03
+  - first:
+      213: 21300020
+    second: Charlie_Flying04
+  - first:
+      213: 21300022
+    second: Charlie_Hit01
+  - first:
+      213: 21300024
+    second: Charlie_Hit02
+  - first:
+      213: 21300026
+    second: Charlie_Idle01
+  - first:
+      213: 21300028
+    second: Charlie_Idle02
+  - first:
+      213: 21300030
+    second: Charlie_Idle03
+  - first:
+      213: 21300032
+    second: Charlie_Idle04
+  - first:
+      213: 21300034
+    second: Charlie_Idle05
+  - first:
+      213: 21300036
+    second: Charlie_Idle06
+  - first:
+      213: 21300038
+    second: Charlie_Idle07
+  - first:
+      213: 21300040
+    second: Player_Falling01
+  - first:
+      213: 21300042
+    second: Player_Falling02
+  - first:
+      213: 21300044
+    second: Player_Falling03
+  - first:
+      213: 21300046
+    second: Player_Falling04
+  - first:
+      213: 21300048
+    second: Player_Falling05
+  - first:
+      213: 21300050
+    second: Player_Falling06
+  - first:
+      213: 21300052
+    second: Player_Flying01
+  - first:
+      213: 21300054
+    second: Player_Flying02
+  - first:
+      213: 21300056
+    second: Player_Flying03
+  - first:
+      213: 21300058
+    second: Player_Flying04
+  - first:
+      213: 21300060
+    second: Player_Hit01
+  - first:
+      213: 21300062
+    second: Player_Hit02
+  - first:
+      213: 21300064
+    second: Player_Idle01
+  - first:
+      213: 21300066
+    second: Player_Idle02
+  - first:
+      213: 21300068
+    second: Player_Idle03
+  - first:
+      213: 21300070
+    second: Player_Idle04
+  - first:
+      213: 21300072
+    second: Player_Idle05
+  - first:
+      213: 21300074
+    second: Player_Idle06
+  - first:
+      213: 21300076
+    second: Player_Idle07
+  - first:
+      213: 21300078
+    second: Sasha_Falling01
+  - first:
+      213: 21300080
+    second: Sasha_Falling02
+  - first:
+      213: 21300082
+    second: Sasha_Falling03
+  - first:
+      213: 21300084
+    second: Sasha_Falling04
+  - first:
+      213: 21300086
+    second: Sasha_Falling05
+  - first:
+      213: 21300088
+    second: Sasha_Falling06
+  - first:
+      213: 21300090
+    second: Sasha_Flying01
+  - first:
+      213: 21300092
+    second: Sasha_Flying02
+  - first:
+      213: 21300094
+    second: Sasha_Flying03
+  - first:
+      213: 21300096
+    second: Sasha_Flying04
+  - first:
+      213: 21300098
+    second: Sasha_Hit01
+  - first:
+      213: 21300100
+    second: Sasha_Hit02
+  - first:
+      213: 21300102
+    second: Sasha_Idle01
+  - first:
+      213: 21300104
+    second: Sasha_Idle02
+  - first:
+      213: 21300106
+    second: Sasha_Idle03
+  - first:
+      213: 21300108
+    second: Sasha_Idle04
+  - first:
+      213: 21300110
+    second: Sasha_Idle05
+  - first:
+      213: 21300112
+    second: Sasha_Idle06
+  - first:
+      213: 21300114
+    second: Sasha_Idle07
+  - first:
+      213: 21300116
+    second: Player_Run01
+  - first:
+      213: 21300118
+    second: Player_Run02
+  - first:
+      213: 21300120
+    second: Player_Run03
+  - first:
+      213: 21300122
+    second: Player_Run04
+  - first:
+      213: 21300124
+    second: Player_Run_01
+  - first:
+      213: 21300126
+    second: Player_Run_02
+  - first:
+      213: 21300128
+    second: Player_Run_03
+  - first:
+      213: 21300130
+    second: Player_Run_04
+  - first:
+      213: 21300132
+    second: Bruce_Falling01
+  - first:
+      213: 21300134
+    second: Bruce_Falling02
+  - first:
+      213: 21300136
+    second: Bruce_Falling03
+  - first:
+      213: 21300138
+    second: Bruce_Falling04
+  - first:
+      213: 21300140
+    second: Bruce_Falling05
+  - first:
+      213: 21300142
+    second: Bruce_Falling06
+  - first:
+      213: 21300144
+    second: Bruce_Flying01
+  - first:
+      213: 21300146
+    second: Bruce_Flying02
+  - first:
+      213: 21300148
+    second: Bruce_Flying03
+  - first:
+      213: 21300150
+    second: Bruce_Flying04
+  - first:
+      213: 21300152
+    second: Bruce_Hit01
+  - first:
+      213: 21300154
+    second: Bruce_Hit02
+  - first:
+      213: 21300156
+    second: Bruce_Idle01
+  - first:
+      213: 21300158
+    second: Bruce_Idle02
+  - first:
+      213: 21300160
+    second: Bruce_Idle03
+  - first:
+      213: 21300162
+    second: Bruce_Idle04
+  - first:
+      213: 21300164
+    second: Bruce_Idle05
+  - first:
+      213: 21300166
+    second: Bruce_Idle06
+  - first:
+      213: 21300168
+    second: Bruce_Idle07
+  - first:
+      213: 7723611257048763587
+    second: Bruce_Falling_00000
+  - first:
+      213: -6517047266402333128
+    second: Bruce_Falling_00001
+  - first:
+      213: 9193406039301518212
+    second: Bruce_Falling_00002
+  - first:
+      213: 8580413314497730458
+    second: Bruce_Falling_00003
+  - first:
+      213: 6479581134683213512
+    second: Bruce_Falling_00004
+  - first:
+      213: 1364194397672183270
+    second: Bruce_Falling_00005
+  - first:
+      213: 5082619324342478770
+    second: Bruce_Flying_00000
+  - first:
+      213: -508551519018668205
+    second: Bruce_Flying_00001
+  - first:
+      213: -1785185752564601531
+    second: Bruce_Flying_00002
+  - first:
+      213: 764358139826581726
+    second: Bruce_Flying_00003
+  - first:
+      213: -3253090577035284430
+    second: Bruce_Hit_00000
+  - first:
+      213: -4133937617832003368
+    second: Bruce_Hit_00001
+  - first:
+      213: -6904289058272521578
+    second: Bruce_Idle_00000
+  - first:
+      213: -9147661642003579803
+    second: Bruce_Idle_00001
+  - first:
+      213: -5479396980359518078
+    second: Bruce_Idle_00002
+  - first:
+      213: 3487030280189903916
+    second: Bruce_Idle_00003
+  - first:
+      213: -6510224771767991005
+    second: Bruce_Idle_00004
+  - first:
+      213: -2894632118277759886
+    second: Bruce_Idle_00005
+  - first:
+      213: 1618314949538621560
+    second: Bruce_Idle_00006
+  - first:
+      213: -6708619223953560954
+    second: Sasha_Falling_00000
+  - first:
+      213: -2866676539314888493
+    second: Sasha_Falling_00001
+  - first:
+      213: -1959447158348561833
+    second: Sasha_Falling_00002
+  - first:
+      213: 4014697952237889616
+    second: Sasha_Falling_00003
+  - first:
+      213: -8114933540749002228
+    second: Sasha_Falling_00004
+  - first:
+      213: -582402233264012905
+    second: Sasha_Falling_00005
+  - first:
+      213: -6873654104362858437
+    second: Sasha_Flying_00000
+  - first:
+      213: -4258528308402643069
+    second: Sasha_Flying_00001
+  - first:
+      213: 7069995337354373688
+    second: Sasha_Flying_00002
+  - first:
+      213: 6037309005910700025
+    second: Sasha_Flying_00003
+  - first:
+      213: -1258049024345052527
+    second: Sasha_Hit_00000
+  - first:
+      213: 8844793556434342406
+    second: Sasha_Hit_00001
+  - first:
+      213: -5857300939888696045
+    second: Sasha_Idle_00000
+  - first:
+      213: -2845583349886349177
+    second: Sasha_Idle_00001
+  - first:
+      213: -5331228561796840799
+    second: Sasha_Idle_00002
+  - first:
+      213: -8622043008031926548
+    second: Sasha_Idle_00003
+  - first:
+      213: 375653441278884874
+    second: Sasha_Idle_00004
+  - first:
+      213: 4077306156216613885
+    second: Sasha_Idle_00005
+  - first:
+      213: 6229980307140004004
+    second: Sasha_Idle_00006
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bruce_Falling01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Falling02
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Falling03
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Falling04
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Falling05
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Falling06
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Flying01
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Flying02
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Flying03
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Flying04
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Hit02
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Idle01
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Idle02
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Idle03
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Idle04
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Idle05
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Idle06
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_Idle07
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Falling01
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Falling02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Falling03
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Falling04
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Falling05
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Falling06
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Flying01
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Flying02
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Flying03
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Flying04
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Hit02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Idle01
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Idle02
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Idle03
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Idle04
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Idle05
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Idle06
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_Idle07
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Falling01
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Falling02
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Falling03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Falling04
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Falling05
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Falling06
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Flying01
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Flying02
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Flying03
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Flying04
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hit02
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Idle01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Idle02
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Idle03
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Idle04
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Idle05
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Idle06
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Idle07
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Falling01
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Falling02
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Falling03
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Falling04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Falling05
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Falling06
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Flying01
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Flying02
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Flying03
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Flying04
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Hit02
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Idle01
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Idle02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Idle03
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Idle04
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Idle05
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Idle06
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasha_Idle07
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 32edb542c2030794981364c2f19a00a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player_Falling06: 21300050
+      Sasha_Idle02: 21300104
+      Bruce_Idle05: 21300164
+      Player_Flying04: 21300058
+      Charlie_Idle05: 21300034
+      Bruce_Hit01: 21300152
+      Bruce_Flying02: 21300146
+      Bruce_Idle07: 21300168
+      Sasha_Hit02: 21300100
+      Sasha_Hit01: 21300098
+      Bruce_Idle04: 21300162
+      Player_Idle06: 21300074
+      Player_Falling02: 21300042
+      Sasha_Falling05: 21300086
+      Sasha_Falling06: 21300088
+      Sasha_Flying04: 21300096
+      Sasha_Flying03: 21300094
+      Player_Idle04: 21300070
+      Charlie_Flying03: 21300018
+      Bruce_Falling01: 21300132
+      Charlie_Idle04: 21300032
+      Bruce_Idle06: 21300166
+      Player_Falling04: 21300046
+      Charlie_Falling01: 21300002
+      Bruce_Falling02: 21300134
+      Sasha_Falling04: 21300084
+      Sasha_Idle05: 21300110
+      Charlie_Idle02: 21300028
+      Charlie_Falling03: 21300006
+      Sasha_Falling03: 21300082
+      Player_Hit02: 21300062
+      Sasha_Idle07: 21300114
+      Charlie_Hit02: 21300024
+      Player_Flying02: 21300054
+      Charlie_Idle07: 21300038
+      Sasha_Flying01: 21300090
+      Bruce_Flying03: 21300148
+      Player_Falling03: 21300044
+      Bruce_Falling03: 21300136
+      Player_Flying01: 21300052
+      Charlie_Flying02: 21300016
+      Sasha_Idle01: 21300102
+      Player_Idle03: 21300068
+      Sasha_Idle06: 21300112
+      Bruce_Falling05: 21300140
+      Sasha_Idle03: 21300106
+      Sasha_Flying02: 21300092
+      Charlie_Falling06: 21300012
+      Player_Idle02: 21300066
+      Bruce_Falling04: 21300138
+      Bruce_Idle03: 21300160
+      Charlie_Hit01: 21300022
+      Charlie_Idle01: 21300026
+      Sasha_Idle04: 21300108
+      Player_Falling05: 21300048
+      Player_Flying03: 21300056
+      Bruce_Flying01: 21300144
+      Charlie_Idle06: 21300036
+      Bruce_Idle02: 21300158
+      Player_Idle07: 21300076
+      Charlie_Falling05: 21300010
+      Player_Falling01: 21300040
+      Bruce_Falling06: 21300142
+      Bruce_Flying04: 21300150
+      Player_Hit01: 21300060
+      Charlie_Flying04: 21300020
+      Sasha_Falling02: 21300080
+      Sasha_Falling01: 21300078
+      Charlie_Falling04: 21300008
+      Player_Idle01: 21300064
+      Bruce_Idle01: 21300156
+      Charlie_Idle03: 21300030
+      Charlie_Flying01: 21300014
+      Charlie_Falling02: 21300004
+      Player_Idle05: 21300072
+      Bruce_Hit02: 21300154
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

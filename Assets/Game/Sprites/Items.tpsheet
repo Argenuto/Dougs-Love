@@ -1,0 +1,32 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:cb8df7ad796d5832f575458ce1221e55:0ba33a728d28d11f33399a1ffb93046e:ff72447e4ee6a52320ae9d7c9baf37a7$
+#
+:format=40300
+:texture=Items.png
+:size=1024x512
+:pivotpoints=enabled
+:borders=disabled
+
+Item_Coins_01;0;386;126;126; 0.5;0.5; 0;0;0;0
+Item_Coins_02;126;386;126;126; 0.5;0.5; 0;0;0;0
+Item_Coins_03;252;386;126;126; 0.5;0.5; 0;0;0;0
+Item_Coins_04;378;386;126;126; 0.5;0.5; 0;0;0;0
+Item_Coins_05;504;386;126;126; 0.5;0.5; 0;0;0;0
+Item_Coins_06;630;386;126;126; 0.5;0.5; 0;0;0;0
+Item_Hearts_01;756;388;148;124; 0.5;0.5; 0;0;0;0
+Item_Hearts_02;0;262;148;124; 0.5;0.5; 0;0;0;0
+Item_Hearts_03;148;262;148;124; 0.5;0.5; 0;0;0;0
+Item_Hearts_04;296;262;148;124; 0.5;0.5; 0;0;0;0
+Item_Hearts_05;444;262;148;124; 0.5;0.5; 0;0;0;0
+Item_Hearts_06;592;262;148;124; 0.5;0.5; 0;0;0;0
+Item_Stars_01;740;260;130;126; 0.5;0.5; 0;0;0;0
+Item_Stars_02;870;260;130;126; 0.5;0.5; 0;0;0;0
+Item_Stars_03;0;134;130;126; 0.5;0.5; 0;0;0;0
+Item_Stars_04;130;134;130;126; 0.5;0.5; 0;0;0;0
+Item_Stars_05;260;134;130;126; 0.5;0.5; 0;0;0;0
+Item_Stars_06;390;134;130;126; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,1370 @@
+fileFormatVersion: 2
+guid: a488b0013fec76d4eafa3854c934e6cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Intro
+  - first:
+      213: 21300002
+    second: DougIntro_S01_01
+  - first:
+      213: 21300004
+    second: DougIntro_S01_02
+  - first:
+      213: 21300006
+    second: DougIntro_S01_03
+  - first:
+      213: 21300008
+    second: DougIntro_S01_04
+  - first:
+      213: 21300010
+    second: DougIntro_S01_05
+  - first:
+      213: 21300012
+    second: DougIntro_S01_06
+  - first:
+      213: 21300014
+    second: DougIntro_S01_07
+  - first:
+      213: 21300016
+    second: DougIntro_S01_08
+  - first:
+      213: 21300018
+    second: Fifi_Intro01
+  - first:
+      213: 21300020
+    second: Fifi_Intro02
+  - first:
+      213: 21300022
+    second: Fifi_Intro03
+  - first:
+      213: 21300024
+    second: Fifi_Intro04
+  - first:
+      213: 21300026
+    second: Fifi_Intro05
+  - first:
+      213: 21300028
+    second: Fifi_Intro06
+  - first:
+      213: 21300030
+    second: DougIntro_S02_01
+  - first:
+      213: 21300032
+    second: DougIntro_S02_02
+  - first:
+      213: 21300034
+    second: DougIntro_S02_03
+  - first:
+      213: 21300036
+    second: DougIntro_S02_04
+  - first:
+      213: 21300038
+    second: DougIntro_S02_05
+  - first:
+      213: 21300040
+    second: DougIntro_S02_06
+  - first:
+      213: 21300042
+    second: DougIntro_S02_07
+  - first:
+      213: 21300044
+    second: DougIntro_S02_08
+  - first:
+      213: 21300046
+    second: DougIntro_S02_09
+  - first:
+      213: 21300048
+    second: DougIntro_S02_10
+  - first:
+      213: 21300050
+    second: DougIntro_S02_11
+  - first:
+      213: 21300052
+    second: DougIntro_S02_12
+  - first:
+      213: 21300054
+    second: DougIntro_S02_13
+  - first:
+      213: 21300056
+    second: DougIntro_S02_14
+  - first:
+      213: 21300058
+    second: DougIntro_S02_15
+  - first:
+      213: 21300060
+    second: DougIntro_S02_16
+  - first:
+      213: 21300062
+    second: DougIntro_S02_17
+  - first:
+      213: 21300064
+    second: DougIntro_S02_18
+  - first:
+      213: 21300066
+    second: DougIntro_S02_19
+  - first:
+      213: 21300068
+    second: DougIntro_S02_20
+  - first:
+      213: 21300070
+    second: DougIntro_S02_21
+  - first:
+      213: 21300072
+    second: DougIntro_S02_22
+  - first:
+      213: 21300074
+    second: DougIntro_S02_23
+  - first:
+      213: 21300076
+    second: DougIntro_S02_24
+  - first:
+      213: 21300078
+    second: DougIntro_S02_25
+  - first:
+      213: 21300080
+    second: DougIntro_S03_01
+  - first:
+      213: 21300082
+    second: DougIntro_S03_02
+  - first:
+      213: 21300084
+    second: DougIntro_S03_03
+  - first:
+      213: 21300086
+    second: DougIntro_S03_04
+  - first:
+      213: 21300088
+    second: DougIntro_S03_05
+  - first:
+      213: 21300090
+    second: DougIntro_S03_06
+  - first:
+      213: 21300092
+    second: DougIntro_S03_07
+  - first:
+      213: 21300094
+    second: CageIntro_01
+  - first:
+      213: 21300096
+    second: CageIntro_02
+  - first:
+      213: 21300098
+    second: CageIntro_03
+  - first:
+      213: 21300100
+    second: CageIntro_04
+  - first:
+      213: 21300102
+    second: CageIntro_05
+  - first:
+      213: 21300104
+    second: CageIntro_06
+  - first:
+      213: 21300106
+    second: CageIntro_07
+  - first:
+      213: 21300108
+    second: CageIntro_08
+  - first:
+      213: 21300110
+    second: CageIntro_09
+  - first:
+      213: 21300112
+    second: CageIntro_10
+  - first:
+      213: 21300114
+    second: CageVillain_01
+  - first:
+      213: 21300116
+    second: CageVillain_02
+  - first:
+      213: 21300118
+    second: CageVillain_03
+  - first:
+      213: 21300120
+    second: CageVillain_04
+  - first:
+      213: 21300122
+    second: CageVillain_05
+  - first:
+      213: 21300124
+    second: CageVillain_06
+  - first:
+      213: 21300126
+    second: CageVillain_07
+  - first:
+      213: 21300128
+    second: CageVillain_08
+  - first:
+      213: 21300130
+    second: Doug_S01_01
+  - first:
+      213: 21300132
+    second: Doug_S01_02
+  - first:
+      213: 21300134
+    second: Doug_S01_03
+  - first:
+      213: 21300136
+    second: Doug_S01_04
+  - first:
+      213: 21300138
+    second: Doug_S02_01
+  - first:
+      213: 21300140
+    second: Doug_S02_02
+  - first:
+      213: 21300142
+    second: Doug_S02_03
+  - first:
+      213: 21300144
+    second: Doug_S02_04
+  - first:
+      213: 21300146
+    second: Doug_S02_05
+  - first:
+      213: 21300148
+    second: Doug_S02_06
+  - first:
+      213: 21300150
+    second: Doug_S02_07
+  - first:
+      213: 21300152
+    second: Doug_S02_08
+  - first:
+      213: 21300154
+    second: Doug_S02_09
+  - first:
+      213: 21300156
+    second: Doug_S02_10
+  - first:
+      213: 21300158
+    second: Doug_S02_11
+  - first:
+      213: 21300160
+    second: Doug_S02_12
+  - first:
+      213: 21300162
+    second: Doug_S02_13
+  - first:
+      213: 21300164
+    second: Doug_S02_14
+  - first:
+      213: 21300166
+    second: Doug_S02_15
+  - first:
+      213: 21300168
+    second: Doug_S02_16
+  - first:
+      213: 21300170
+    second: Doug_S02_17
+  - first:
+      213: 21300172
+    second: Doug_S02_18
+  - first:
+      213: 21300174
+    second: Doug_S02_19
+  - first:
+      213: 21300176
+    second: Doug_S03_01
+  - first:
+      213: 21300178
+    second: Doug_S03_02
+  - first:
+      213: 21300180
+    second: Doug_S03_03
+  - first:
+      213: 21300182
+    second: Doug_S03_04
+  - first:
+      213: 21300184
+    second: Doug_S03_05
+  - first:
+      213: 21300186
+    second: Doug_S03_06
+  - first:
+      213: 21300188
+    second: Doug_S03_07
+  - first:
+      213: 21300190
+    second: Doug_S02_20
+  - first:
+      213: 21300192
+    second: Doug_S02_21
+  - first:
+      213: 21300194
+    second: Doug_S02_22
+  - first:
+      213: 21300196
+    second: Doug_S02_23
+  - first:
+      213: 21300198
+    second: Doug_S02_24
+  - first:
+      213: 21300200
+    second: Doug_S02_25
+  - first:
+      213: 21300202
+    second: Doug_S02_26
+  - first:
+      213: 21300204
+    second: Doug_S02_27
+  - first:
+      213: 21300206
+    second: Doug_S02_28
+  - first:
+      213: 21300208
+    second: Doug_S02_29
+  - first:
+      213: 21300210
+    second: Doug_S02_30
+  - first:
+      213: 21300212
+    second: Doug_S02_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doug_S01_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1797
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874be37545ecf1044961081214344539
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S01_02
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1797
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574f645ee78093c4684c8dda125767c2
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S01_03
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1797
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c102a3514845a40a02c5963bb55e61
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S01_04
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1797
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c0c37827bd664986274011fa7a1c8
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_01
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1797
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb0f68bfb77204eb570bda020a5c91
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1545
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc10a55ce488af3408eadfd01a286a9d
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_04
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1545
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aea5a9ba419be4487acbdb035bfd03
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_05
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1545
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec57b78caf4d8649be920a81b317794
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_06
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1545
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f689eab0686e504ca1de53600d66514
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_07
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1545
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce517e23fca8ed418df37490d24e768
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1293
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41bfe42045326e47aea79c49451dc7a
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_09
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1545
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88186cf811c6f9e45b89c5ae77d32198
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1293
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43b0146dc64c2141ae03406e7abc876
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_11
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1293
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1367d1dcacdb42147b9ec383555005c7
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_12
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1293
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a54002c8c4f37b41bf0b8e2b3633401
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_13
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1293
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87101f147a7dbe84f9dad20180c2cec0
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1041
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b21a707915bf3f43b7015bc5a2bb968
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1041
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47f7cb17ec379c44821d39179c1e5fb
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_16
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1041
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7d3f88b472d954daf21581c2385365
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1041
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d201e67139a66134997676014764c65e
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_18
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1041
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef86dcfa90f3c7449fa66b35ed864c1
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 789
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c414561ac46d541b06a549800682dd
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_20
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 789
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0703670f515c0eb4fb79382c96299619
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_21
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 789
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b622ec39aaf3e469266cc79cec5c2d
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_22
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 789
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f380b5a3a0d6640408227aff35e6c1d5
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_23
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 789
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77fb2a8b9bc0064e916ecd315d4f059
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 537
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e46ee6bd32a4f4e88c82a74807349f
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 537
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e634cbea45196049bf00d6618cce249
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_26
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 789
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2abc88c0e80bda4ab5dffea7db96816
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 537
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a80674ca82be814f83fd3cb0fa031b4
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_28
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 537
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb079e4fa43869240a3002fb534b551b
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_29
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 537
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121340fa90e9d20499d8628f19d4ba2c
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 285
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441857c989821fc4289b84f3c2ad6879
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S02_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 285
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854f07a157b0f39448152889e0d35b16
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S03_01
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 285
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54d579a4d74db4ca858ae6ad405be5
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S03_02
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 285
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f656d9e99f49c8247a863c263c72753c
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S03_03
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 285
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d6732a36697044b87aca1ee2258b8b
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S03_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e3d961d8f91db4ea9e9ff7c227202f
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S03_05
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 33
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68de0cbc900ef814fbc8f43f50ec8943
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S03_06
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 33
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba9c092e68c1c549b5cd6e679ba6979
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug_S03_07
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 33
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d698c52fcaf3a0247956941d37e21229
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 149c16c743916c94da1078376e084821
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Doug_S02_11: 21300158
+      Doug_S01_03: 21300134
+      Doug_S02_13: 21300162
+      Doug_S02_20: 21300190
+      Doug_S02_16: 21300168
+      Doug_S02_07: 21300150
+      Doug_S02_08: 21300152
+      Doug_S02_12: 21300160
+      Doug_S01_04: 21300136
+      Doug_S02_06: 21300148
+      Doug_S02_29: 21300208
+      Doug_S02_21: 21300192
+      Doug_S03_02: 21300178
+      Doug_S02_31: 21300212
+      Doug_S02_10: 21300156
+      Doug_S02_28: 21300206
+      Doug_S03_01: 21300176
+      Doug_S02_27: 21300204
+      Doug_S03_04: 21300182
+      Doug_S02_05: 21300146
+      Doug_S02_03: 21300142
+      Doug_S02_15: 21300166
+      Doug_S03_05: 21300184
+      Doug_S02_18: 21300172
+      Doug_S02_25: 21300200
+      Doug_S02_04: 21300144
+      Doug_S03_03: 21300180
+      Doug_S02_22: 21300194
+      Doug_S02_30: 21300210
+      Doug_S02_14: 21300164
+      Doug_S01_01: 21300130
+      Doug_S02_26: 21300202
+      Doug_S03_06: 21300186
+      Doug_S02_17: 21300170
+      Doug_S02_19: 21300174
+      Doug_S02_01: 21300138
+      Doug_S02_23: 21300196
+      Doug_S02_24: 21300198
+      Doug_S02_09: 21300154
+      Doug_S01_02: 21300132
+      Doug_S03_07: 21300188
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

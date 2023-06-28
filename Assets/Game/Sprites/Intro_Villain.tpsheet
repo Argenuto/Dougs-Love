@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:33e82ec789e4985ef67bd1ccc31b94c9:dbaf29b20086fea24d54f238ac0053c9:a9a6979ac0e3f4de37bd8bade6f3e8cf$
+#
+:format=40300
+:texture=Intro_Villain.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+Cage_01;1;723;180;300; 0.5;0.5; 0;0;0;0
+Cage_02;183;723;180;300; 0.5;0.5; 0;0;0;0
+Cage_03;365;723;180;300; 0.5;0.5; 0;0;0;0
+Cage_04;547;723;180;300; 0.5;0.5; 0;0;0;0
+Cage_05;729;723;180;300; 0.5;0.5; 0;0;0;0
+Cage_06;1;421;180;300; 0.5;0.5; 0;0;0;0
+Villain_S01_01;183;551;230;170; 0.5;0.5; 0;0;0;0
+Villain_S01_02;415;551;230;170; 0.5;0.5; 0;0;0;0
+Villain_S01_03;647;551;230;170; 0.5;0.5; 0;0;0;0
+Villain_S01_04;1;249;230;170; 0.5;0.5; 0;0;0;0
+Villain_S01_05;233;249;230;170; 0.5;0.5; 0;0;0;0
+Villain_S01_06;465;249;230;170; 0.5;0.5; 0;0;0;0
+Villain_S02_01;697;249;230;170; 0.5;0.5; 0;0;0;0
+Villain_S02_02;1;77;230;170; 0.5;0.5; 0;0;0;0
+Villain_S02_03;233;77;230;170; 0.5;0.5; 0;0;0;0
+Villain_S02_04;465;77;230;170; 0.5;0.5; 0;0;0;0

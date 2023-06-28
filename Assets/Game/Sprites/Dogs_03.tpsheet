@@ -1,0 +1,71 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:fee634cc79117750d5f809e12a06b4db:f27df8e6c20e0d1019b603088d9ae27f:e7d45ce3dd53fb9a59e304e7e689fba2$
+#
+:format=40300
+:texture=Dogs_03.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+FineDoug_Falling01;1;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Falling02;203;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Falling03;405;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Falling04;607;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Falling05;809;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Falling06;1011;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Flying01;1213;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Flying02;1415;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Flying03;1617;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Flying04;1819;1822;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Hit01;1;1595;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Hit02;203;1595;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Idle01;405;1595;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Idle02;607;1595;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Idle03;809;1595;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Idle04;1011;1595;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Idle05;1213;1595;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Idle06;1415;1595;200;225; 0.5;0.5; 0;0;0;0
+FineDoug_Idle07;1617;1595;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Falling01;1819;1595;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Falling02;1;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Falling03;203;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Falling04;405;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Falling05;607;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Falling06;809;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Flying01;1011;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Flying02;1213;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Flying03;1415;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Flying04;1617;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Hit01;1819;1368;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Hit02;1;1141;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Idle01;203;1141;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Idle02;405;1141;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Idle03;607;1141;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Idle04;809;1141;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Idle05;1011;1141;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Idle06;1213;1141;200;225; 0.5;0.5; 0;0;0;0
+NinjaDoug_Idle07;1415;1141;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Falling01;1617;1141;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Falling02;1819;1141;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Falling03;1;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Falling04;203;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Falling05;405;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Falling06;607;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Flying_00000;809;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Flying_00001;1011;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Flying_00002;1213;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Flying_00003;1415;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Hit01;1617;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Hit02;1819;914;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Idle01;1;687;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Idle02;203;687;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Idle03;405;687;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Idle04;607;687;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Idle05;809;687;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Idle06;1011;687;200;225; 0.5;0.5; 0;0;0;0
+PartyDoug_Idle07;1213;687;200;225; 0.5;0.5; 0;0;0;0

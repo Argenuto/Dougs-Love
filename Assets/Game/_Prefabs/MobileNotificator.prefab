@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8352710945965145654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8352710945965145655}
+  - component: {fileID: 2687608444127299975}
+  - component: {fileID: 1533625060174992262}
+  m_Layer: 0
+  m_Name: MobileNotificator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8352710945965145655
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8352710945965145654}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -4.2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2687608444127299975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8352710945965145654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1150325884e98f41992b9f42c217e87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  notificationsObjects:
+  - title: Go play with Doug
+    body: and save his girlfriend
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 1440
+    reschedule: 1
+  - title: It's time to fly
+    body: get higher to reach love
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 2160
+    reschedule: 1
+  - title: Doug miss you
+    body: go play with him again
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 2880
+    reschedule: 1
+  spanishNoticationsObjects:
+  - title: Juega con Doug
+    body: Y salva a su novia
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 1440
+    reschedule: 1
+  - title: hora de volar
+    body: sube mas alto para alcanzar el amor
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 2160
+    reschedule: 1
+  - title: "Doug te extra\xF1a"
+    body: "Juega con \xE9l otra vez."
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 2880
+    reschedule: 1
+  japaneseNotificationObjects:
+  - title: "\u30C0\u30B0\u3068\u904A\u3073\u307E\u3057\u3087\u3046"
+    body: "\u5F7C\u5973\u3092\u52A9\u3051\u306A\u3055\u3044"
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 1440
+    reschedule: 1
+  - title: "\u7FD4\u3076\u306E\u3068\u304D\u3067\u3059"
+    body: "\u611B\u3092\u5C4A\u304F\u306E\u305F\u3081\u306B\u9AD8\u304F\u306A\u308A\u307E\u3059"
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 2160
+    reschedule: 1
+  - title: "\u30C0\u30B0\u306F\u541B\u306B\u4F1A\u3044\u305F\u3044"
+    body: "\u3082\u3046\u4E00\u5EA6\u904A\u3073\u307E\u3057\u3087\u3046"
+    smallIcon: 
+    largeIcon: 
+    badgeNumber: 0
+    minutesToShow: 2880
+    reschedule: 1
+--- !u!114 &1533625060174992262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8352710945965145654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cee98b792935d2499e84d5f659c1895, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mode: 2
+  autoBadging: 1

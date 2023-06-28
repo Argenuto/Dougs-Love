@@ -1,0 +1,2125 @@
+fileFormatVersion: 2
+guid: 90113b5865b1ae54bb296158c8ad90c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Dogs_02
+  - first:
+      213: 21300002
+    second: Angie_Falling01
+  - first:
+      213: 21300004
+    second: Angie_Falling02
+  - first:
+      213: 21300006
+    second: Angie_Falling03
+  - first:
+      213: 21300008
+    second: Angie_Falling04
+  - first:
+      213: 21300010
+    second: Angie_Falling05
+  - first:
+      213: 21300012
+    second: Angie_Falling06
+  - first:
+      213: 21300014
+    second: Angie_Flying01
+  - first:
+      213: 21300016
+    second: Angie_Flying02
+  - first:
+      213: 21300018
+    second: Angie_Flying03
+  - first:
+      213: 21300020
+    second: Angie_Flying04
+  - first:
+      213: 21300022
+    second: Angie_Hit01
+  - first:
+      213: 21300024
+    second: Angie_Hit02
+  - first:
+      213: 21300026
+    second: Angie_Idle01
+  - first:
+      213: 21300028
+    second: Angie_Idle02
+  - first:
+      213: 21300030
+    second: Angie_Idle03
+  - first:
+      213: 21300032
+    second: Angie_Idle04
+  - first:
+      213: 21300034
+    second: Angie_Idle05
+  - first:
+      213: 21300036
+    second: Angie_Idle06
+  - first:
+      213: 21300038
+    second: Angie_Idle07
+  - first:
+      213: 7937279374230496251
+    second: GhostDoug_Falling_00000
+  - first:
+      213: -5275110692703537929
+    second: GhostDoug_Falling_00001
+  - first:
+      213: 3910155270579151164
+    second: GhostDoug_Falling_00002
+  - first:
+      213: 2942769636765155284
+    second: GhostDoug_Falling_00003
+  - first:
+      213: -2234149382665369664
+    second: GhostDoug_Falling_00004
+  - first:
+      213: 8778829823769648439
+    second: GhostDoug_Falling_00005
+  - first:
+      213: 5232689691609757217
+    second: GhostDoug_Flying_00000
+  - first:
+      213: -1202077805422295549
+    second: GhostDoug_Flying_00001
+  - first:
+      213: -3341856128947920829
+    second: GhostDoug_Flying_00002
+  - first:
+      213: -4575913451659789005
+    second: GhostDoug_Flying_00003
+  - first:
+      213: 4490961853221547388
+    second: GhostDoug_Hit01
+  - first:
+      213: -3628299519275902652
+    second: GhostDoug_Hit02
+  - first:
+      213: -7431018669760756064
+    second: GhostDoug_Idle_00000
+  - first:
+      213: 5512955465138541946
+    second: GhostDoug_Idle_00001
+  - first:
+      213: 1242804736913668817
+    second: GhostDoug_Idle_00002
+  - first:
+      213: -6503449511706038382
+    second: GhostDoug_Idle_00003
+  - first:
+      213: -8701837632809282349
+    second: GhostDoug_Idle_00004
+  - first:
+      213: 5653020302876133714
+    second: GhostDoug_Idle_00005
+  - first:
+      213: 5192826144807985484
+    second: GhostDoug_Idle_00006
+  - first:
+      213: 9035884681696744730
+    second: Felipe_Falling01
+  - first:
+      213: -6237810301732400597
+    second: Felipe_Falling02
+  - first:
+      213: 3610204728587653171
+    second: Felipe_Falling03
+  - first:
+      213: -7395756021071991802
+    second: Felipe_Falling04
+  - first:
+      213: 3784139699482064679
+    second: Felipe_Falling05
+  - first:
+      213: 5592724107203098742
+    second: Felipe_Falling06
+  - first:
+      213: 2001972491364543441
+    second: Felipe_Flying01
+  - first:
+      213: 8439915388101643883
+    second: Felipe_Flying02
+  - first:
+      213: -2273300824003120508
+    second: Felipe_Flying03
+  - first:
+      213: 9028624898278642449
+    second: Felipe_Flying04
+  - first:
+      213: 6341087483799680093
+    second: Felipe_Hit01
+  - first:
+      213: -8165409114614736137
+    second: Felipe_Hit02
+  - first:
+      213: 3764085839780277749
+    second: Felipe_Idle01
+  - first:
+      213: -2737107030264812618
+    second: Felipe_Idle02
+  - first:
+      213: 2098590098242978303
+    second: Felipe_Idle03
+  - first:
+      213: 8126971926870592473
+    second: Felipe_Idle04
+  - first:
+      213: 3174158573351969651
+    second: Felipe_Idle05
+  - first:
+      213: 5533938397557121630
+    second: Felipe_Idle06
+  - first:
+      213: -9184067801494436091
+    second: Felipe_Idle07
+  - first:
+      213: -1603951233734004712
+    second: GhostDoug_Falling01
+  - first:
+      213: -7289489299960383767
+    second: GhostDoug_Falling02
+  - first:
+      213: -4025671020554142812
+    second: GhostDoug_Falling03
+  - first:
+      213: -7791375159077187976
+    second: GhostDoug_Falling04
+  - first:
+      213: -1971350710949100436
+    second: GhostDoug_Falling05
+  - first:
+      213: -4671442279217560281
+    second: GhostDoug_Falling06
+  - first:
+      213: 8283678060893224149
+    second: GhostDoug_Flying01
+  - first:
+      213: 4532618022449127930
+    second: GhostDoug_Flying02
+  - first:
+      213: -861306736958441637
+    second: GhostDoug_Flying03
+  - first:
+      213: -1885945112561031463
+    second: GhostDoug_Flying04
+  - first:
+      213: 4857032133642737284
+    second: GhostDoug_Idle01
+  - first:
+      213: 3744362088161774890
+    second: GhostDoug_Idle02
+  - first:
+      213: 4931661787907076589
+    second: GhostDoug_Idle03
+  - first:
+      213: -7280976560079444986
+    second: GhostDoug_Idle04
+  - first:
+      213: 1826941342954709721
+    second: GhostDoug_Idle05
+  - first:
+      213: 6846679164500694548
+    second: GhostDoug_Idle06
+  - first:
+      213: 1585140370191084641
+    second: GhostDoug_Idle07
+  - first:
+      213: -1722107333975383684
+    second: Doug3000_Falling01
+  - first:
+      213: -2647110193076385229
+    second: Doug3000_Falling02
+  - first:
+      213: 5634382412413449810
+    second: Doug3000_Falling03
+  - first:
+      213: 8008835197002910605
+    second: Doug3000_Falling04
+  - first:
+      213: 5137469169850517594
+    second: Doug3000_Falling05
+  - first:
+      213: 8139873067004236937
+    second: Doug3000_Falling06
+  - first:
+      213: 403497822282804018
+    second: Doug3000_Flying01
+  - first:
+      213: 6664194120782573143
+    second: Doug3000_Flying02
+  - first:
+      213: -4836064070374869871
+    second: Doug3000_Flying03
+  - first:
+      213: 1955226835354021702
+    second: Doug3000_Flying04
+  - first:
+      213: 8247687633859593308
+    second: Doug3000_Hit01
+  - first:
+      213: -1890093845478704324
+    second: Doug3000_Hit02
+  - first:
+      213: 3010470573538706805
+    second: Doug3000_Idle01
+  - first:
+      213: 5757579507242950077
+    second: Doug3000_Idle02
+  - first:
+      213: 752439869764369194
+    second: Doug3000_Idle03
+  - first:
+      213: 8615921841674318270
+    second: Doug3000_Idle04
+  - first:
+      213: -3293565450092391950
+    second: Doug3000_Idle05
+  - first:
+      213: -4022526251954648396
+    second: Doug3000_Idle06
+  - first:
+      213: 2764358106914955088
+    second: Doug3000_Idle07
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angie_Falling01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Falling02
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Falling03
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Falling04
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Falling05
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Falling06
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Flying01
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Flying02
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Flying03
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Flying04
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1822
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Hit02
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Idle01
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Idle02
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Idle03
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Idle04
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Idle05
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Idle06
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angie_Idle07
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Falling01
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1595
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c716d4df088d918e0800000000000000
+      internalID: -1722107333975383684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Falling02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33acd5ced43934bd0800000000000000
+      internalID: -2647110193076385229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Falling03
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256bc9ca3f8513e40800000000000000
+      internalID: 5634382412413449810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Falling04
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b0106dd29152f60800000000000000
+      internalID: 8008835197002910605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Falling05
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5806719df4fb4740800000000000000
+      internalID: 5137469169850517594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Falling06
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9849e837d63a6f070800000000000000
+      internalID: 8139873067004236937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Flying01
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b6fcca123899500800000000000000
+      internalID: 403497822282804018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Flying02
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eed739e39fb7c50800000000000000
+      internalID: 6664194120782573143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Flying03
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194b64eb959d2ecb0800000000000000
+      internalID: -4836064070374869871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Flying04
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f6690927c522b10800000000000000
+      internalID: 1955226835354021702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1368
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c544592743ca57270800000000000000
+      internalID: 8247687633859593308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Hit02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bf61469a905c5e0800000000000000
+      internalID: -1890093845478704324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Idle01
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5758a86590757c920800000000000000
+      internalID: 3010470573538706805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Idle02
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd84f8e0807ef40800000000000000
+      internalID: 5757579507242950077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Idle03
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b75203314317a00800000000000000
+      internalID: 752439869764369194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Idle04
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1f6811447e19770800000000000000
+      internalID: 8615921841674318270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Idle05
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f15eb65ca7ea42d0800000000000000
+      internalID: -3293565450092391950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Idle06
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba4f84afad1d28c0800000000000000
+      internalID: -4022526251954648396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doug3000_Idle07
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f13a25d09fc5620800000000000000
+      internalID: 2764358106914955088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Falling01
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a159deb6e39e56d70800000000000000
+      internalID: 9035884681696744730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Falling02
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1141
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22d7f47498de69a0800000000000000
+      internalID: -6237810301732400597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Falling03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33017eda2160a1230800000000000000
+      internalID: 3610204728587653171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Falling04
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2c8e451ffc5990800000000000000
+      internalID: -7395756021071991802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Falling05
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727f418e107f38430800000000000000
+      internalID: 3784139699482064679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Falling06
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678ba98a1f85d9d40800000000000000
+      internalID: 5592724107203098742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Flying01
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db23edbf5f68cb10800000000000000
+      internalID: 2001972491364543441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Flying02
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ec622345a902570800000000000000
+      internalID: 8439915388101643883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Flying03
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482f0bde1fc9370e0800000000000000
+      internalID: -2273300824003120508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Flying04
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1135520628e1c4d70800000000000000
+      internalID: 9028624898278642449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d543e815871100850800000000000000
+      internalID: 6341087483799680093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Hit02
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 914
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fad6a52ca3aeae80800000000000000
+      internalID: -8165409114614736137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Idle01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd6e28d028bc3430800000000000000
+      internalID: 3764085839780277749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Idle02
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb67d468a7d30ad0800000000000000
+      internalID: -2737107030264812618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Idle03
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1cce65390bf1d10800000000000000
+      internalID: 2098590098242978303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Idle04
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db81b0b8edc8c070800000000000000
+      internalID: 8126971926870592473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Idle05
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373a761b760ec0c20800000000000000
+      internalID: 3174158573351969651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Idle06
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52694b07af7ccc40800000000000000
+      internalID: 5533938397557121630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felipe_Idle07
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50742da6ef2ab8080800000000000000
+      internalID: -9184067801494436091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Falling01
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8103c3cd9de9db9e0800000000000000
+      internalID: -1603951233734004712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Falling02
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6b9d16a1886da90800000000000000
+      internalID: -7289489299960383767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Falling03
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 687
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab39452981f128c0800000000000000
+      internalID: -4025671020554142812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Falling04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec663c2997fd390800000000000000
+      internalID: -7791375159077187976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Falling05
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c644a2a19fa54a4e0800000000000000
+      internalID: -1971350710949100436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Falling06
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7250f765ff3bb2fb0800000000000000
+      internalID: -4671442279217560281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Flying01
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcbc3dbe4985f270800000000000000
+      internalID: 8283678060893224149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Flying02
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af12d9a931817ee30800000000000000
+      internalID: 4532618022449127930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Flying03
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57f0fc06160c04f0800000000000000
+      internalID: -861306736958441637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Flying04
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d66aeb89e6c3d5e0800000000000000
+      internalID: -1885945112561031463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Hit01
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da919e20a135e30800000000000000
+      internalID: 4490961853221547388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Hit02
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449d6de8fc0b5adc0800000000000000
+      internalID: -3628299519275902652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Idle01
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 460
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486de6cedf4a76340800000000000000
+      internalID: 4857032133642737284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Idle02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d825f0b75a6f330800000000000000
+      internalID: 3744362088161774890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Idle03
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1b19c5448c07440800000000000000
+      internalID: 4931661787907076589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Idle04
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604e4861566c4fa90800000000000000
+      internalID: -7280976560079444986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Idle05
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d26a4cc8799a5910800000000000000
+      internalID: 1826941342954709721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Idle06
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416d123cc6a440f50800000000000000
+      internalID: 6846679164500694548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDoug_Idle07
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 233
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cee5ca4cc8ff510800000000000000
+      internalID: 1585140370191084641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bdaf0db8b254a5744b1b1dd4c7d2ba7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Doug3000_Falling02: -2647110193076385229
+      Doug3000_Idle05: -3293565450092391950
+      Felipe_Idle04: 8126971926870592473
+      GhostDoug_Falling06: -4671442279217560281
+      GhostDoug_Flying02: 4532618022449127930
+      GhostDoug_Hit01: 4490961853221547388
+      Angie_Flying04: 21300020
+      Doug3000_Idle01: 3010470573538706805
+      Felipe_Falling03: 3610204728587653171
+      GhostDoug_Idle04: -7280976560079444986
+      Felipe_Falling02: -6237810301732400597
+      Felipe_Idle07: -9184067801494436091
+      Angie_Falling04: 21300008
+      GhostDoug_Idle01: 4857032133642737284
+      Angie_Idle06: 21300036
+      Doug3000_Idle06: -4022526251954648396
+      Doug3000_Falling06: 8139873067004236937
+      Angie_Falling03: 21300006
+      Angie_Hit02: 21300024
+      GhostDoug_Falling01: -1603951233734004712
+      GhostDoug_Flying01: 8283678060893224149
+      Angie_Idle01: 21300026
+      GhostDoug_Falling05: -1971350710949100436
+      GhostDoug_Idle06: 6846679164500694548
+      Felipe_Falling01: 9035884681696744730
+      Doug3000_Idle03: 752439869764369194
+      Felipe_Idle02: -2737107030264812618
+      Felipe_Flying03: -2273300824003120508
+      Felipe_Idle06: 5533938397557121630
+      GhostDoug_Idle03: 4931661787907076589
+      Angie_Idle03: 21300030
+      Doug3000_Flying03: -4836064070374869871
+      Felipe_Flying02: 8439915388101643883
+      Felipe_Idle01: 3764085839780277749
+      Angie_Falling06: 21300012
+      Doug3000_Falling03: 5634382412413449810
+      Felipe_Hit01: 6341087483799680093
+      GhostDoug_Falling03: -4025671020554142812
+      GhostDoug_Idle05: 1826941342954709721
+      Felipe_Falling06: 5592724107203098742
+      Doug3000_Falling04: 8008835197002910605
+      Felipe_Falling05: 3784139699482064679
+      Angie_Falling01: 21300002
+      Angie_Idle04: 21300032
+      Angie_Idle07: 21300038
+      Doug3000_Falling05: 5137469169850517594
+      GhostDoug_Idle02: 3744362088161774890
+      Angie_Flying03: 21300018
+      Felipe_Idle03: 2098590098242978303
+      Doug3000_Idle04: 8615921841674318270
+      Angie_Flying01: 21300014
+      Angie_Idle05: 21300034
+      Angie_Falling02: 21300004
+      Doug3000_Flying02: 6664194120782573143
+      GhostDoug_Idle07: 1585140370191084641
+      Angie_Flying02: 21300016
+      GhostDoug_Falling04: -7791375159077187976
+      GhostDoug_Flying04: -1885945112561031463
+      Doug3000_Falling01: -1722107333975383684
+      Doug3000_Hit02: -1890093845478704324
+      Angie_Idle02: 21300028
+      Felipe_Flying01: 2001972491364543441
+      GhostDoug_Falling02: -7289489299960383767
+      Doug3000_Idle07: 2764358106914955088
+      Angie_Falling05: 21300010
+      Felipe_Hit02: -8165409114614736137
+      GhostDoug_Hit02: -3628299519275902652
+      Doug3000_Hit01: 8247687633859593308
+      Angie_Hit01: 21300022
+      Felipe_Falling04: -7395756021071991802
+      GhostDoug_Flying03: -861306736958441637
+      Doug3000_Idle02: 5757579507242950077
+      Doug3000_Flying04: 1955226835354021702
+      Felipe_Flying04: 9028624898278642449
+      Doug3000_Flying01: 403497822282804018
+      Felipe_Idle05: 3174158573351969651
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

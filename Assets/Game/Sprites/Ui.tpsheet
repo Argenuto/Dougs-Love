@@ -1,0 +1,49 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:3da1074a485a2fa6b6c6c79859ea129b:3d5a5761e4e4c547b054743e415f6ef4:829affcbe077e587f8ab986c05ab2549$
+#
+:format=40300
+:texture=Ui.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+Button_Close;315;1726;155;160; 0.5;0.5; 0;0;0;0
+Button_Shape01;946;1935;254;112; 0.5;0.5; 0;0;0;0
+Button_Shape02;759;1935;185;112; 0.5;0.5; 0;0;0;0
+Button_Shape03;503;1935;254;112; 0.5;0.5; 0;0;0;0
+CatAlert_01;1409;1253;220;237; 0.5;0.5; 0;0;0;0
+CatAlert_02;1631;1253;220;237; 0.5;0.5; 0;0;0;0
+CatAlert_03;1;1014;220;237; 0.5;0.5; 0;0;0;0
+Lock;1202;1927;90;120; 0.5;0.5; 0;0;0;0
+Panel_Continue;815;216;1012;767; 0.5;0.5; 0;0;0;0
+Ui_Button_Achievements;1372;1704;178;182; 0.5;0.5; 0;0;0;0
+Ui_Button_Back;158;1727;155;159; 0.5;0.5; 0;0;0;0
+Ui_Button_Continue_Coins;601;1280;598;210; 0.5;0.5; 0;0;0;0
+Ui_Button_Continue_MovieAd;1201;1492;598;210; 0.5;0.5; 0;0;0;0
+Ui_Button_Credits;1192;1704;178;182; 0.5;0.5; 0;0;0;0
+Ui_Button_HeadStart;1613;1888;155;159; 0.5;0.5; 0;0;0;0
+Ui_Button_Home;1506;1925;105;122; 0.5;0.5; 0;0;0;0
+Ui_Button_Instragram;472;1704;178;182; 0.5;0.5; 0;0;0;0
+Ui_Button_Leaderboards;1012;1704;178;182; 0.5;0.5; 0;0;0;0
+Ui_Button_Music_Off;1175;985;262;266; 0.5;0.5; 0;0;0;0
+Ui_Button_Music_On;911;985;262;266; 0.5;0.5; 0;0;0;0
+Ui_Button_Pause;1770;1888;155;159; 0.5;0.5; 0;0;0;0
+Ui_Button_PhotoShare;601;1492;598;210; 0.5;0.5; 0;0;0;0
+Ui_Button_Play;1;1492;598;210; 0.5;0.5; 0;0;0;0
+Ui_Button_RateUs;832;1704;178;182; 0.5;0.5; 0;0;0;0
+Ui_Button_Retry;1;1280;598;210; 0.5;0.5; 0;0;0;0
+Ui_Button_Share;652;1704;178;182; 0.5;0.5; 0;0;0;0
+Ui_Button_Sound_Off;1703;985;262;266; 0.5;0.5; 0;0;0;0
+Ui_Button_Sound_On;1439;985;262;266; 0.5;0.5; 0;0;0;0
+Ui_Button_Store_01;223;992;686;259; 0.5;0.5; 0;0;0;0
+Ui_Button_Store_02;1;1727;155;159; 0.5;0.5; 0;0;0;0
+Ui_Coins;1;1980;249;67; 0.5;0.5; 0;0;0;0
+Ui_HeadStart_Text;1294;1927;210;120; 0.5;0.5; 0;0;0;0
+Ui_Score;252;1980;249;67; 0.5;0.5; 0;0;0;0
+Ui_Score_Base;1;532;812;451; 0.5;0.5; 0;0;0;0
+Ui_Tutorial;1201;1259;206;231; 0.5;0.5; 0;0;0;0

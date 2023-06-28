@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 08e01b9da3f4f364aba27d7150de342d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ui
+  - first:
+      213: 21300002
+    second: CatAlert_01
+  - first:
+      213: 21300004
+    second: CatAlert_02
+  - first:
+      213: 21300006
+    second: Ui_Button_Achievements
+  - first:
+      213: 21300008
+    second: Ui_Button_Ban
+  - first:
+      213: 21300010
+    second: Ui_Button_Credits
+  - first:
+      213: 21300012
+    second: Ui_Button_GooglePlay
+  - first:
+      213: 21300014
+    second: Ui_Button_HeadStart
+  - first:
+      213: 21300016
+    second: Ui_Button_Leaderboards
+  - first:
+      213: 21300018
+    second: Ui_Button_Music
+  - first:
+      213: 21300020
+    second: Ui_Button_Pause
+  - first:
+      213: 21300022
+    second: Ui_Button_Play
+  - first:
+      213: 21300024
+    second: Ui_Button_Retry
+  - first:
+      213: 21300026
+    second: Ui_Button_Settings
+  - first:
+      213: 21300028
+    second: Ui_Button_Share
+  - first:
+      213: 21300030
+    second: Ui_Button_Sound
+  - first:
+      213: 21300032
+    second: Ui_Button_Store
+  - first:
+      213: 21300034
+    second: Ui_HiScore
+  - first:
+      213: 21300036
+    second: Ui_MenuShape
+  - first:
+      213: 21300038
+    second: Ui_Tutorial
+  - first:
+      213: 21300040
+    second: Ui_MenuShape_Large
+  - first:
+      213: 21300042
+    second: Ui_MovieAd
+  - first:
+      213: 21300044
+    second: Ui_RateUs
+  - first:
+      213: 21300046
+    second: Ui_Button_Music_Off
+  - first:
+      213: 21300048
+    second: Ui_Button_Music_On
+  - first:
+      213: 21300050
+    second: Ui_Button_Play_Large
+  - first:
+      213: 21300052
+    second: Ui_Button_Play_Small
+  - first:
+      213: 21300054
+    second: Ui_Button_Sound_Off
+  - first:
+      213: 21300056
+    second: Ui_Button_Sound_On
+  - first:
+      213: 21300058
+    second: Ui_Button_Store_Large
+  - first:
+      213: 21300060
+    second: Ui_Button_Store_Small
+  - first:
+      213: 21300062
+    second: Coins_G01
+  - first:
+      213: 21300064
+    second: Coins_G02
+  - first:
+      213: 21300066
+    second: Coins_G03
+  - first:
+      213: 21300068
+    second: Coins_G04
+  - first:
+      213: 21300070
+    second: Ui_Shape_Large
+  - first:
+      213: 21300072
+    second: Ui_Shape_Small
+  - first:
+      213: 21300074
+    second: Ui_Button_Back
+  - first:
+      213: 21300076
+    second: Ui_Button_Retry_01
+  - first:
+      213: 21300078
+    second: Ui_Button_Retry_02
+  - first:
+      213: 21300080
+    second: Ui_Coins01
+  - first:
+      213: 21300082
+    second: Ui_Coins02
+  - first:
+      213: 21300084
+    second: Ui_Coins03
+  - first:
+      213: 21300086
+    second: Ui_Coins04
+  - first:
+      213: 21300088
+    second: Ui_Coins05
+  - first:
+      213: 21300090
+    second: Ui_Coins06
+  - first:
+      213: 21300092
+    second: Ui_ScoreBase_01
+  - first:
+      213: 21300094
+    second: Ui_ScoreBase_02
+  - first:
+      213: 21300096
+    second: Ui_Coins_Base
+  - first:
+      213: 21300098
+    second: Ui_Score
+  - first:
+      213: 21300100
+    second: Ui_Score_House
+  - first:
+      213: 21300102
+    second: CatAlert_03
+  - first:
+      213: 21300104
+    second: Ui_Button_Store_01
+  - first:
+      213: 21300106
+    second: Ui_Button_Store_02
+  - first:
+      213: 21300108
+    second: Ui_Coins
+  - first:
+      213: 21300110
+    second: Button_Back
+  - first:
+      213: 21300112
+    second: Button_Forward
+  - first:
+      213: 21300114
+    second: Button_Shape01
+  - first:
+      213: 21300116
+    second: Button_Shape02
+  - first:
+      213: 21300118
+    second: Button_Shape03
+  - first:
+      213: 21300120
+    second: Lock
+  - first:
+      213: 21300122
+    second: Icon_BG01
+  - first:
+      213: 21300124
+    second: Button_Close
+  - first:
+      213: 21300126
+    second: Ui_HeadStart_Text
+  - first:
+      213: -1472483668997473528
+    second: Ui_TotalCoins
+  - first:
+      213: -4846779207830294779
+    second: Ui_TotalScore
+  - first:
+      213: 2284790555230635990
+    second: Ui_Button_Instragram
+  - first:
+      213: 543368901486608667
+    second: Ui_Button_RateUs
+  - first:
+      213: 7551475372998790549
+    second: Panel_Continue
+  - first:
+      213: -9049608198142066058
+    second: Ui_Button_Continue_Coins
+  - first:
+      213: -6549485898413054056
+    second: Ui_Button_Continue_MovieAd
+  - first:
+      213: 3502785205377530
+    second: Ui_Button_PhotoShare
+  - first:
+      213: 1584578913151714612
+    second: Ui_Score_Base
+  - first:
+      213: -794253795809046278
+    second: Ui_Button_Home
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button_Close
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1726
+        width: 155
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Shape01
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1935
+        width: 254
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Shape02
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1935
+        width: 185
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Shape03
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1935
+        width: 254
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatAlert_01
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1253
+        width: 220
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatAlert_02
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1253
+        width: 220
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatAlert_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1014
+        width: 220
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1927
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_Continue
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 216
+        width: 1012
+        height: 767
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d04b1a7da3cc860800000000000000
+      internalID: 7551475372998790549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Achievements
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1704
+        width: 178
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Back
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1727
+        width: 155
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Continue_Coins
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1280
+        width: 598
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67287496a45596280800000000000000
+      internalID: -9049608198142066058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Continue_MovieAd
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1492
+        width: 598
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897e8aba64d8b15a0800000000000000
+      internalID: -6549485898413054056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Credits
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1704
+        width: 178
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_HeadStart
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1888
+        width: 155
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Home
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1925
+        width: 105
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0db4f716e3af4f0800000000000000
+      internalID: -794253795809046278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Instragram
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1704
+        width: 178
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d780b697e435bf10800000000000000
+      internalID: 2284790555230635990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Leaderboards
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1704
+        width: 178
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Music_Off
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 985
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Music_On
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 985
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Pause
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1888
+        width: 155
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_PhotoShare
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1492
+        width: 598
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af914ebb3c17c0000800000000000000
+      internalID: 3502785205377530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Play
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1492
+        width: 598
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_RateUs
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1704
+        width: 178
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b118a13132f6a8700800000000000000
+      internalID: 543368901486608667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Retry
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1280
+        width: 598
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Share
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1704
+        width: 178
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Sound_Off
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 985
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Sound_On
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 985
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Store_01
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 992
+        width: 686
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Button_Store_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1727
+        width: 155
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Coins
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1980
+        width: 249
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_HeadStart_Text
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1927
+        width: 210
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Score
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1980
+        width: 249
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Score_Base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 532
+        width: 812
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4358bf4402e8df510800000000000000
+      internalID: 1584578913151714612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_Tutorial
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1259
+        width: 206
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c227336bebea904491608ba35f6906d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Button_Shape03: 21300118
+      Ui_Button_Music_On: 21300048
+      Lock: 21300120
+      Ui_Button_Play: 21300022
+      Ui_Button_Retry: 21300024
+      Ui_Button_Sound_Off: 21300054
+      Ui_Button_HeadStart: 21300014
+      Ui_Button_Store_02: 21300106
+      Button_Shape01: 21300114
+      Ui_Button_Continue_Coins: -9049608198142066058
+      Ui_Button_Share: 21300028
+      Ui_Button_Continue_MovieAd: -6549485898413054056
+      Ui_Button_Store_01: 21300104
+      Ui_Score: 21300098
+      Ui_Button_Credits: 21300010
+      Button_Shape02: 21300116
+      Ui_Button_Music_Off: 21300046
+      CatAlert_02: 21300004
+      Ui_Button_Achievements: 21300006
+      Ui_Button_Leaderboards: 21300016
+      Ui_Button_Pause: 21300020
+      Panel_Continue: 7551475372998790549
+      Ui_Button_Sound_On: 21300056
+      Ui_Button_Home: -794253795809046278
+      Ui_Button_Instragram: 2284790555230635990
+      Ui_Button_PhotoShare: 3502785205377530
+      Ui_Score_Base: 1584578913151714612
+      Ui_Tutorial: 21300038
+      Ui_Coins: 21300108
+      CatAlert_03: 21300102
+      Ui_Button_RateUs: 543368901486608667
+      Ui_HeadStart_Text: 21300126
+      Button_Close: 21300124
+      CatAlert_01: 21300002
+      Ui_Button_Back: 21300074
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
