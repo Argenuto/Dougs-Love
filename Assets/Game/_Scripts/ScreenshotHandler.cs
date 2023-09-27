@@ -18,6 +18,9 @@ using UnityEditor;
 #endif
 using UnityEngine;
 using Malee;
+using System.Collections.Generic;
+using System.Collections;
+
 public enum ScreenshotMode {single,layered }
 
 [System.Serializable]
@@ -57,7 +60,7 @@ public class ScreenshotHandler : MonoBehaviour {
             {
                 case ScreenshotMode.single:
                     Debug.Log("modo simple");
-                    SingleTakeShot();
+                    StartCoroutine( SingleTakeShot());
                     break;
                 case ScreenshotMode.layered:
                     Debug.Log("modo capas");
@@ -119,17 +122,33 @@ public class ScreenshotHandler : MonoBehaviour {
         cameraLayers[cameraLayers.Length - 1].targetTexture = null;
     }
 
-    private void SingleTakeShot()
+    private IEnumerator SingleTakeShot()
     {
         RenderTexture renderTexture = myCamera.targetTexture;
         Texture2D renderResult = new Texture2D(renderTexture.width, renderTexture.height, TextureFormat.ARGB32, false);
         Rect rect = new Rect(0, 0, renderTexture.width, renderTexture.height);
+
+        // Espera al final del fotograma antes de leer los píxeles.
+        yield return new WaitForEndOfFrame();
+        // await Task.Delay(Mathf.RoundToInt(Time.deltaTime * 1000));
         renderResult.ReadPixels(rect, 0, 0);
-        byte[] byteArray = renderResult.EncodeToPNG();
+
+        // Ejecuta la función pesada en un subproceso separado.
+        byte[] byteArray = renderResult.EncodeToJPG();
+
+        // Continúa en el subproceso principal.
+        SaveImage(byteArray);
+
+        RenderTexture.ReleaseTemporary(renderTexture);
+        myCamera.targetTexture = null;
+    }
+
+    private void SaveImage(byte[] byteArray)
+    {
 #if UNITY_EDITOR
         if (SaveInTheFolder)
         {
-            filename = Path.Combine(Application.dataPath, "Screenshots", "pic made" + System.DateTime.Now.ToFileTime() + ".png");
+            filename = Path.Combine(Application.dataPath, "Screenshots", "pic made" + System.DateTime.Now.ToFileTime() + ".jpg");
             if (!Directory.Exists(Path.Combine(Application.dataPath, "Screenshots")))
                 Directory.CreateDirectory(Path.Combine(Application.dataPath, "Screenshots"));
             File.WriteAllBytes(filename, byteArray);
@@ -138,8 +157,6 @@ public class ScreenshotHandler : MonoBehaviour {
             filename = Path.Combine(Application.temporaryCachePath, "shared_img.png");
 #endif
         System.IO.File.WriteAllBytes(filename, byteArray);
-        RenderTexture.ReleaseTemporary(renderTexture);
-        myCamera.targetTexture = null;
     }
 
     private void TakeScreenshot(int width, int height) {
