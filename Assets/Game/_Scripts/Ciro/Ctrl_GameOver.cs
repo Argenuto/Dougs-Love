@@ -121,16 +121,18 @@ public class Ctrl_GameOver : MonoBehaviour
             }
         }
         */
-        if (Valores.adsActivated && FindObjectOfType<AdsManager>().interstitial.IsLoaded() && (Valores.timesPlayed % repeticionesParaPublicidad) == 0)
+        var adsManager = FindObjectOfType<AdsManager>();
+        if(adsManager != null)
+        if (Valores.adsActivated && adsManager.interstitial.IsLoaded() && (Valores.timesPlayed % repeticionesParaPublicidad) == 0)
         {
-            FindObjectOfType<AdsManager>().Show_Interstitial();
+            adsManager.Show_Interstitial();
         }
 
         yield return null;
         StopCoroutine(Rutina_Inicio());
     }
 
-    IEnumerator Rutina_Reiniciar ()
+    IEnumerator Rutina_Reiniciar()
     {/*
         if (Ctrl_Escenas.main != null)
         {
@@ -143,13 +145,13 @@ public class Ctrl_GameOver : MonoBehaviour
         if (Valores.adsActivated)
         {
             AdsManager adsManager = FindObjectOfType<AdsManager>();
+            if (adsManager != null)
+                if (adsManager.rewardBasedVideo.IsLoaded())
+                {
+                    adsManager.Destruir_Banner();
 
-            if (adsManager.rewardBasedVideo.IsLoaded())
-            {
-                adsManager.Destruir_Banner();
-
-                adsManager.Request_Banner();
-            }
+                    adsManager.Request_Banner();
+                }
         }
 
         Vector3 newPos = interfaz.panel_gameOver.transform.position;

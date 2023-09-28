@@ -218,18 +218,23 @@ myBackground.transform.position =new Vector3(myBackground.transform.position.x,m
     //          CREADO POR CIRO
     public void GameOver()
     {
-        if (!tried && ((Valores.adsActivated && FindObjectOfType<AdsManager>().rewardBasedVideo.IsLoaded()) || Valores.coins >= valorParaContinuar))
-        {
-            Debug.Log("Abrir panel continuar");
+        var adsManager = FindObjectOfType<AdsManager>();
+        bool rewardVideoLoaded = false;
+        if (adsManager != null)
+             rewardVideoLoaded = adsManager.rewardBasedVideo.IsLoaded();
 
-            FindObjectOfType<Ctrl_InterfazMain>().panel_Continuar.gameObject.SetActive(true);
-        }
-        else
-        {
-            Debug.Log("GameOver");
+            if (!tried && (Valores.adsActivated && rewardVideoLoaded || Valores.coins >= valorParaContinuar))
+            {
+                Debug.Log("Abrir panel continuar");
 
-            LoadGameOver();
-        }
+                FindObjectOfType<Ctrl_InterfazMain>().panel_Continuar.gameObject.SetActive(true);
+            }
+            else
+            {
+                Debug.Log("GameOver");
+
+                LoadGameOver();
+            }
     }
     //+++++++++++++++++++++++++++++++++++++
     public void LoadGameOver()
@@ -273,11 +278,12 @@ myBackground.transform.position =new Vector3(myBackground.transform.position.x,m
     IEnumerator Rutina_CargarBanner ()
     {
         yield return null;
-
-        FindObjectOfType<AdsManager>().Request_Banner();
-
+        var adsManager = FindObjectOfType<AdsManager>();
+        if(adsManager != null)
+            adsManager.Request_Banner();
         yield return null;
         StopCoroutine(Rutina_CargarBanner());
+        yield break;
     }
 
     IEnumerator Rutina_PauseOn ()

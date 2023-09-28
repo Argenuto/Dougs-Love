@@ -153,8 +153,10 @@ public class ScreenshotHandler : MonoBehaviour {
                 Directory.CreateDirectory(Path.Combine(Application.dataPath, "Screenshots"));
             File.WriteAllBytes(filename, byteArray);
         }
+        else
+            filename = Path.Combine(Application.streamingAssetsPath, "shared_img.jpg");
 #else
-            filename = Path.Combine(Application.temporaryCachePath, "shared_img.png");
+            filename = Path.Combine(Application.temporaryCachePath, "shared_img.jpg");
 #endif
         System.IO.File.WriteAllBytes(filename, byteArray);
     }

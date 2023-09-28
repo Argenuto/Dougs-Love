@@ -17,19 +17,19 @@ public class Panel_Continuar : MonoBehaviour
     {
         Debug.Log("Panel continuar activado");
 
-        if (adsManager == null)
-        {
-            adsManager = FindObjectOfType<AdsManager>();
-        }
 
-        if (Valores.adsActivated && adsManager.rewardBasedVideo.IsLoaded())
-        {
-            btn_video.interactable = true;
-        }
-        else
-        {
-            btn_video.interactable = false;
-        }
+
+        adsManager = FindObjectOfType<AdsManager>();
+
+        if (adsManager != null)
+            if (Valores.adsActivated && adsManager.rewardBasedVideo.IsLoaded())
+            {
+                btn_video.interactable = true;
+            }
+            else
+            {
+                btn_video.interactable = false;
+            }
 
         if (ctrl == null)
         {
@@ -54,18 +54,19 @@ public class Panel_Continuar : MonoBehaviour
 
     private void Update()
     {
-        if (Valores.adsActivated && adsManager.videoRecompensado)
-        {
-            Debug.Log("Visto video para continuar");
+        if (adsManager != null)
+            if (Valores.adsActivated && adsManager.videoRecompensado)
+            {
+                Debug.Log("Visto video para continuar");
 
-            adsManager.videoRecompensado = false;
+                adsManager.videoRecompensado = false;
 
-            FindObjectOfType<Bird>().Resurrect();
+                FindObjectOfType<Bird>().Resurrect();
 
-            ctrl.tried = true;
+                ctrl.tried = true;
 
-            gameObject.SetActive(false);
-        }
+                gameObject.SetActive(false);
+            }
     }
 
     public void Btn_VerVideo ()

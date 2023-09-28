@@ -1,0 +1,580 @@
+# compiler: R8
+# compiler_version: 3.1.66
+# min_api: 22
+# pg_map_id: de9eb3d
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"1.0"}
+bitter.jnibridge.JNIBridge$a -> bitter.jnibridge.JNIBridge$a:
+    java.lang.Object -$$Nest$fgeta(bitter.jnibridge.JNIBridge$a) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputb(bitter.jnibridge.JNIBridge$a,long) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+com.google.android.gms.internal.play_billing.zza -> com.google.android.gms.internal.play_billing.a:
+    com.google.android.gms.internal.play_billing.zzx zzo -> p
+    com.google.android.gms.internal.play_billing.zza[] zzp -> q
+    com.google.android.gms.internal.play_billing.zza zzn -> o
+    com.google.android.gms.internal.play_billing.zza zzl -> m
+    com.google.android.gms.internal.play_billing.zza zzm -> n
+    int zzq -> a
+    com.google.android.gms.internal.play_billing.zza zzf -> g
+    com.google.android.gms.internal.play_billing.zza zzg -> h
+    com.google.android.gms.internal.play_billing.zza zzd -> e
+    com.google.android.gms.internal.play_billing.zza zze -> f
+    com.google.android.gms.internal.play_billing.zza zzj -> k
+    com.google.android.gms.internal.play_billing.zza zzk -> l
+    com.google.android.gms.internal.play_billing.zza zzh -> i
+    com.google.android.gms.internal.play_billing.zza zzi -> j
+    com.google.android.gms.internal.play_billing.zza zzb -> c
+    com.google.android.gms.internal.play_billing.zza zzc -> d
+    com.google.android.gms.internal.play_billing.zza zza -> b
+    com.google.android.gms.internal.play_billing.zza zza(int) -> a
+com.google.android.gms.internal.play_billing.zzaa -> com.google.android.gms.internal.play_billing.b:
+    java.lang.Object[] zzb -> c
+    int zzc -> d
+    com.google.android.gms.internal.play_billing.zzu zza -> e
+    int zza(java.lang.Object[],int) -> a
+    int zzb() -> b
+    int zzc() -> c
+    boolean zzf() -> f
+    java.lang.Object[] zzg() -> g
+com.google.android.gms.internal.play_billing.zzab -> com.google.android.gms.internal.play_billing.c:
+    com.google.android.gms.internal.play_billing.zzac zza -> c
+    boolean zzf() -> f
+com.google.android.gms.internal.play_billing.zzac -> com.google.android.gms.internal.play_billing.d:
+    java.lang.Object[] zzb -> d
+    com.google.android.gms.internal.play_billing.zzx zza -> c
+    int zzc -> e
+    int zza(java.lang.Object[],int) -> a
+    com.google.android.gms.internal.play_billing.zzah zze() -> e
+    com.google.android.gms.internal.play_billing.zzu zzh() -> h
+    int zzi(com.google.android.gms.internal.play_billing.zzac) -> i
+    java.lang.Object[] zzj(com.google.android.gms.internal.play_billing.zzac) -> j
+com.google.android.gms.internal.play_billing.zzad -> com.google.android.gms.internal.play_billing.e:
+    com.google.android.gms.internal.play_billing.zzx zza -> c
+    com.google.android.gms.internal.play_billing.zzu zzb -> d
+    int zza(java.lang.Object[],int) -> a
+    com.google.android.gms.internal.play_billing.zzu zzd() -> d
+    com.google.android.gms.internal.play_billing.zzah zze() -> e
+com.google.android.gms.internal.play_billing.zzae -> com.google.android.gms.internal.play_billing.f:
+    java.lang.Object[] zza -> c
+    int zzb -> d
+    int zzc -> e
+    boolean zzf() -> f
+com.google.android.gms.internal.play_billing.zzaf -> com.google.android.gms.internal.play_billing.g:
+    java.lang.Object[] zzb -> e
+    java.lang.Object zzc -> d
+    int zzd -> f
+    com.google.android.gms.internal.play_billing.zzx zza -> g
+    com.google.android.gms.internal.play_billing.zzr zza() -> a
+    com.google.android.gms.internal.play_billing.zzy zzc() -> c
+    com.google.android.gms.internal.play_billing.zzy zzd() -> d
+    com.google.android.gms.internal.play_billing.zzaf zzf(int,java.lang.Object[],com.google.android.gms.internal.play_billing.zzw) -> f
+com.google.android.gms.internal.play_billing.zzag -> com.google.android.gms.internal.play_billing.h:
+    int zza(java.util.Set) -> a
+com.google.android.gms.internal.play_billing.zzah -> com.google.android.gms.internal.play_billing.i:
+com.google.android.gms.internal.play_billing.zzai -> com.google.android.gms.internal.play_billing.j:
+com.google.android.gms.internal.play_billing.zzb -> com.google.android.gms.internal.play_billing.k:
+    int zza -> a
+    int zza(android.content.Intent,java.lang.String) -> a
+    int zzb(android.os.Bundle,java.lang.String) -> b
+    android.os.Bundle zzc(com.android.billingclient.api.AcknowledgePurchaseParams,java.lang.String) -> c
+    android.os.Bundle zzd(com.android.billingclient.api.ConsumeParams,boolean,java.lang.String) -> d
+    android.os.Bundle zze(int,boolean,java.lang.String,java.lang.String,java.util.ArrayList) -> e
+    android.os.Bundle zzf(com.android.billingclient.api.BillingFlowParams,boolean,boolean,boolean,java.lang.String) -> f
+    android.os.Bundle zzg(java.lang.String,java.util.ArrayList,java.lang.String) -> g
+    android.os.Bundle zzh(boolean,boolean,java.lang.String) -> h
+    com.android.billingclient.api.BillingResult zzi(android.content.Intent,java.lang.String) -> i
+    com.android.billingclient.api.InAppMessageResult zzj(android.os.Bundle,java.lang.String) -> j
+    java.lang.String zzk(android.os.Bundle,java.lang.String) -> k
+    java.lang.String zzl(int) -> l
+    java.util.List zzm(android.os.Bundle) -> m
+    void zzn(java.lang.String,java.lang.String) -> n
+    void zzo(java.lang.String,java.lang.String) -> o
+    void zzp(java.lang.String,java.lang.String,java.lang.Throwable) -> p
+    int zzq(android.os.Bundle,java.lang.String) -> q
+    com.android.billingclient.api.Purchase zzr(java.lang.String,java.lang.String) -> r
+com.google.android.gms.internal.play_billing.zzc -> com.google.android.gms.internal.play_billing.l:
+    android.os.Bundle zzj(int,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle) -> a
+    android.os.Bundle zzl(int,java.lang.String,java.lang.String,android.os.Bundle,android.os.Bundle) -> b
+    int zzr(int,java.lang.String,java.lang.String) -> c
+    android.os.Bundle zzf(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String) -> d
+    android.os.Bundle zzg(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle) -> e
+    int zza(int,java.lang.String,java.lang.String) -> f
+    android.os.Bundle zzd(int,java.lang.String,java.lang.String,android.os.Bundle) -> g
+    void zzn(int,java.lang.String,android.os.Bundle,com.google.android.gms.internal.play_billing.zzg) -> h
+    android.os.Bundle zzk(int,java.lang.String,java.lang.String,android.os.Bundle) -> i
+    int zzc(int,java.lang.String,java.lang.String,android.os.Bundle) -> j
+    android.os.Bundle zzm(int,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle) -> k
+    android.os.Bundle zzi(int,java.lang.String,java.lang.String,java.lang.String) -> l
+    android.os.Bundle zze(int,java.lang.String,java.lang.String,android.os.Bundle) -> m
+    android.os.Bundle zzh(int,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle) -> n
+com.google.android.gms.internal.play_billing.zzd -> com.google.android.gms.internal.play_billing.m:
+    com.google.android.gms.internal.play_billing.zze zzo(android.os.IBinder) -> o
+com.google.android.gms.internal.play_billing.zze -> com.google.android.gms.internal.play_billing.n:
+    android.os.Bundle zzj(int,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle) -> a
+    android.os.Bundle zzl(int,java.lang.String,java.lang.String,android.os.Bundle,android.os.Bundle) -> b
+    int zzr(int,java.lang.String,java.lang.String) -> c
+    android.os.Bundle zzf(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String) -> d
+    android.os.Bundle zzg(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle) -> e
+    int zza(int,java.lang.String,java.lang.String) -> f
+    android.os.Bundle zzd(int,java.lang.String,java.lang.String,android.os.Bundle) -> g
+    void zzn(int,java.lang.String,android.os.Bundle,com.google.android.gms.internal.play_billing.zzg) -> h
+    android.os.Bundle zzk(int,java.lang.String,java.lang.String,android.os.Bundle) -> i
+    int zzc(int,java.lang.String,java.lang.String,android.os.Bundle) -> j
+    android.os.Bundle zzm(int,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle) -> k
+    android.os.Bundle zzi(int,java.lang.String,java.lang.String,java.lang.String) -> l
+    android.os.Bundle zze(int,java.lang.String,java.lang.String,android.os.Bundle) -> m
+    android.os.Bundle zzh(int,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle) -> n
+com.google.android.gms.internal.play_billing.zzf -> com.google.android.gms.internal.play_billing.o:
+com.google.android.gms.internal.play_billing.zzg -> com.google.android.gms.internal.play_billing.p:
+com.google.android.gms.internal.play_billing.zzh -> com.google.android.gms.internal.play_billing.q:
+    android.os.IBinder zza -> a
+    java.lang.String zzb -> b
+    android.os.Parcel zzo() -> o
+    android.os.Parcel zzp(int,android.os.Parcel) -> p
+    void zzq(int,android.os.Parcel) -> q
+com.google.android.gms.internal.play_billing.zzi -> com.google.android.gms.internal.play_billing.r:
+com.google.android.gms.internal.play_billing.zzj -> com.google.android.gms.internal.play_billing.s:
+    java.lang.ClassLoader zza -> a
+    android.os.Parcelable zza(android.os.Parcel,android.os.Parcelable$Creator) -> a
+    void zzb(android.os.Parcel) -> b
+    void zzc(android.os.Parcel,android.os.Parcelable) -> c
+    void zzd(android.os.Parcel,android.os.IInterface) -> d
+com.google.android.gms.internal.play_billing.zzk -> com.google.android.gms.internal.play_billing.t:
+com.google.android.gms.internal.play_billing.zzl -> com.google.android.gms.internal.play_billing.u:
+    boolean zza(java.lang.Object,java.lang.Object) -> a
+com.google.android.gms.internal.play_billing.zzm -> com.google.android.gms.internal.play_billing.v:
+    int zza(int,int,java.lang.String) -> a
+    int zzb(int,int,java.lang.String) -> b
+    java.lang.Object zzc(java.lang.Object,java.lang.Object) -> c
+    void zzd(int,int,int) -> d
+    java.lang.String zze(int,int,java.lang.String) -> e
+com.google.android.gms.internal.play_billing.zzn -> com.google.android.gms.internal.play_billing.w:
+    java.lang.String zza(java.lang.String,java.lang.Object[]) -> a
+com.google.android.gms.internal.play_billing.zzo -> com.google.android.gms.internal.play_billing.x:
+    int zzb -> b
+    int zza -> a
+    java.lang.Object zza(int) -> a
+com.google.android.gms.internal.play_billing.zzp -> com.google.android.gms.internal.play_billing.y:
+    void zza(java.lang.Object,java.lang.Object) -> a
+com.google.android.gms.internal.play_billing.zzq -> com.google.android.gms.internal.play_billing.z:
+    int zza(int) -> a
+com.google.android.gms.internal.play_billing.zzr -> com.google.android.gms.internal.play_billing.a0:
+    java.lang.Object[] zza -> a
+    int zza(java.lang.Object[],int) -> a
+    int zzb() -> b
+    int zzc() -> c
+    com.google.android.gms.internal.play_billing.zzu zzd() -> d
+    com.google.android.gms.internal.play_billing.zzah zze() -> e
+    boolean zzf() -> f
+    java.lang.Object[] zzg() -> g
+com.google.android.gms.internal.play_billing.zzs -> com.google.android.gms.internal.play_billing.b0:
+    com.google.android.gms.internal.play_billing.zzu zza -> c
+    java.lang.Object zza(int) -> a
+com.google.android.gms.internal.play_billing.zzt -> com.google.android.gms.internal.play_billing.c0:
+    int zzb -> d
+    int zza -> c
+    com.google.android.gms.internal.play_billing.zzu zzc -> e
+    int zzb() -> b
+    int zzc() -> c
+    boolean zzf() -> f
+    java.lang.Object[] zzg() -> g
+    com.google.android.gms.internal.play_billing.zzu zzh(int,int) -> h
+com.google.android.gms.internal.play_billing.zzu -> com.google.android.gms.internal.play_billing.d0:
+    com.google.android.gms.internal.play_billing.zzai zza -> b
+    int zza(java.lang.Object[],int) -> a
+    com.google.android.gms.internal.play_billing.zzu zzd() -> d
+    com.google.android.gms.internal.play_billing.zzah zze() -> e
+    com.google.android.gms.internal.play_billing.zzu zzh(int,int) -> h
+    com.google.android.gms.internal.play_billing.zzu zzi(java.lang.Object[]) -> i
+    com.google.android.gms.internal.play_billing.zzu zzj(java.lang.Object[],int) -> j
+    com.google.android.gms.internal.play_billing.zzu zzk(java.util.Collection) -> k
+    com.google.android.gms.internal.play_billing.zzu zzl() -> l
+    com.google.android.gms.internal.play_billing.zzai zzm(int) -> m
+com.google.android.gms.internal.play_billing.zzv -> com.google.android.gms.internal.play_billing.e0:
+    java.lang.Object zzb -> b
+    java.lang.Object zzc -> c
+    java.lang.Object zza -> a
+    java.lang.IllegalArgumentException zza() -> a
+com.google.android.gms.internal.play_billing.zzw -> com.google.android.gms.internal.play_billing.f0:
+    java.lang.Object[] zza -> a
+    com.google.android.gms.internal.play_billing.zzv zzc -> c
+    int zzb -> b
+    com.google.android.gms.internal.play_billing.zzw zza(java.lang.Object,java.lang.Object) -> a
+    com.google.android.gms.internal.play_billing.zzx zzb() -> b
+com.google.android.gms.internal.play_billing.zzx -> com.google.android.gms.internal.play_billing.g0:
+    com.google.android.gms.internal.play_billing.zzy zza -> a
+    com.google.android.gms.internal.play_billing.zzy zzb -> b
+    com.google.android.gms.internal.play_billing.zzr zzc -> c
+    com.google.android.gms.internal.play_billing.zzr zza() -> a
+    com.google.android.gms.internal.play_billing.zzr zzb() -> b
+    com.google.android.gms.internal.play_billing.zzy zzc() -> c
+    com.google.android.gms.internal.play_billing.zzy zzd() -> d
+    com.google.android.gms.internal.play_billing.zzy zze() -> e
+com.google.android.gms.internal.play_billing.zzy -> com.google.android.gms.internal.play_billing.h0:
+    com.google.android.gms.internal.play_billing.zzu zza -> b
+    com.google.android.gms.internal.play_billing.zzu zzd() -> d
+    com.google.android.gms.internal.play_billing.zzu zzh() -> h
+com.google.android.gms.internal.play_billing.zzz -> com.google.android.gms.internal.play_billing.i0:
+    java.lang.Object zza(java.lang.Iterable,java.lang.Object) -> a
+com.google.androidgamesdk.ChoreographerCallback$b -> com.google.androidgamesdk.ChoreographerCallback$b:
+    void <init>(com.google.androidgamesdk.ChoreographerCallback,com.google.androidgamesdk.ChoreographerCallback$b-IA) -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.ChoreographerCallback$b-IA -> a.a:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.SwappyDisplayManager -> com.google.androidgamesdk.SwappyDisplayManager:
+    android.app.Activity -$$Nest$fgetmActivity(com.google.androidgamesdk.SwappyDisplayManager) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.SwappyDisplayManager$b -> com.google.androidgamesdk.SwappyDisplayManager$b:
+    void <init>(com.google.androidgamesdk.SwappyDisplayManager,com.google.androidgamesdk.SwappyDisplayManager$b-IA) -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+com.google.androidgamesdk.SwappyDisplayManager$b-IA -> a.b:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity.androidnotifications.NotificationChannelWrapper -> com.unity.androidnotifications.a:
+    int lockscreenVisibility -> j
+    java.lang.String group -> k
+    boolean enableLights -> e
+    boolean enableVibration -> f
+    java.lang.String id -> a
+    boolean canBypassDnd -> g
+    boolean canShowBadge -> h
+    java.lang.String name -> b
+    int importance -> c
+    long[] vibrationPattern -> i
+    java.lang.String description -> d
+com.unity.androidnotifications.UnityNotificationBackgroundThread -> com.unity.androidnotifications.c:
+    java.util.concurrent.LinkedTransferQueue mTasks -> a
+    com.unity.androidnotifications.UnityNotificationManager mManager -> c
+    java.util.concurrent.ConcurrentHashMap mScheduledNotifications -> b
+    int mTasksSinceHousekeeping -> d
+    void -$$Nest$mperformHousekeeping(com.unity.androidnotifications.UnityNotificationBackgroundThread,java.util.Set) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    void enqueueCancelAllNotifications() -> b
+    void enqueueCancelNotification(int) -> c
+    void enqueueHousekeeping() -> d
+    void enqueueNotification(int,android.app.Notification$Builder,boolean,boolean) -> e
+    boolean executeTask(com.unity.androidnotifications.UnityNotificationManager,com.unity.androidnotifications.UnityNotificationBackgroundThread$Task,java.util.concurrent.ConcurrentHashMap) -> f
+    void loadNotifications() -> g
+    void performHousekeeping(java.util.Set) -> h
+com.unity.androidnotifications.UnityNotificationBackgroundThread$CancelAllNotificationsTask -> com.unity.androidnotifications.c$a:
+    boolean run(com.unity.androidnotifications.UnityNotificationManager,java.util.concurrent.ConcurrentHashMap) -> a
+com.unity.androidnotifications.UnityNotificationBackgroundThread$CancelAllNotificationsTask-IA -> com.unity.androidnotifications.b:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity.androidnotifications.UnityNotificationBackgroundThread$CancelNotificationTask -> com.unity.androidnotifications.c$b:
+    int notificationId -> a
+    boolean run(com.unity.androidnotifications.UnityNotificationManager,java.util.concurrent.ConcurrentHashMap) -> a
+com.unity.androidnotifications.UnityNotificationBackgroundThread$HousekeepingTask -> com.unity.androidnotifications.c$c:
+    com.unity.androidnotifications.UnityNotificationBackgroundThread thread -> a
+    boolean run(com.unity.androidnotifications.UnityNotificationManager,java.util.concurrent.ConcurrentHashMap) -> a
+com.unity.androidnotifications.UnityNotificationBackgroundThread$ScheduleNotificationTask -> com.unity.androidnotifications.c$d:
+    android.app.Notification$Builder notificationBuilder -> b
+    boolean isCustomized -> c
+    int notificationId -> a
+    boolean isNew -> d
+    boolean run(com.unity.androidnotifications.UnityNotificationManager,java.util.concurrent.ConcurrentHashMap) -> a
+com.unity.androidnotifications.UnityNotificationBackgroundThread$Task -> com.unity.androidnotifications.c$e:
+    boolean run(com.unity.androidnotifications.UnityNotificationManager,java.util.concurrent.ConcurrentHashMap) -> a
+com.unity.androidnotifications.UnityNotificationBackgroundThread$Task-IA -> com.unity.androidnotifications.d:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity.androidnotifications.UnityNotificationManager -> com.unity.androidnotifications.UnityNotificationManager:
+    android.content.Context mContext -> a
+    java.util.concurrent.ConcurrentHashMap mScheduledNotifications -> g
+    com.unity.androidnotifications.UnityNotificationBackgroundThread mBackgroundThread -> d
+    java.util.Random mRandom -> e
+    int mExactSchedulingSetting -> i
+    com.unity.androidnotifications.UnityNotificationManager mUnityNotificationManager -> j
+    java.util.HashSet mVisibleNotifications -> f
+    com.unity.androidnotifications.NotificationCallback mNotificationCallback -> h
+    android.app.Activity mActivity -> b
+    java.lang.Class mOpenActivity -> c
+    void performNotificationScheduling(int,android.app.Notification$Builder,boolean) -> A
+    void saveNotification(android.app.Notification,boolean) -> B
+    void saveScheduledNotificationIDs(java.util.Set) -> C
+    void scheduleAlarmWithNotification(android.app.Notification$Builder) -> D
+    void scheduleAlarmWithNotification(android.app.Notification$Builder,android.content.Intent,long) -> E
+    void scheduleNotificationIntentAlarm(long,long,android.app.PendingIntent) -> F
+    void setupBigPictureStyle(android.app.Notification$Builder) -> G
+    android.app.Notification buildNotificationForSending(java.lang.Class,android.app.Notification$Builder) -> a
+    android.content.Intent buildNotificationIntent() -> b
+    boolean canScheduleExactAlarms(android.app.AlarmManager) -> c
+    void cancelPendingNotificationIntent(int) -> d
+    void deleteExpiredNotificationIntent(java.lang.String) -> e
+    void finalizeNotificationForDisplay(android.app.Notification$Builder) -> f
+    java.util.Set findInvalidNotificationIds(java.util.Set) -> g
+    int generateUniqueId() -> h
+    android.app.PendingIntent getActivityPendingIntent(int,android.content.Intent,int) -> i
+    android.os.Bundle getAppMetadata() -> j
+    android.app.PendingIntent getBroadcastPendingIntent(int,android.content.Intent,int) -> k
+    java.lang.Object getIcon(java.lang.String) -> l
+    java.lang.Object getIconForUri(java.lang.String) -> m
+    java.lang.Object getIconFromResources(java.lang.String,boolean) -> n
+    com.unity.androidnotifications.UnityNotificationManager getNotificationManagerImpl(android.content.Context) -> o
+    java.lang.Object getNotificationOrBuilderForIntent(android.content.Intent) -> p
+    java.util.Set getScheduledNotificationIDs() -> q
+    java.lang.String getSharedPrefsNameByChannelId(java.lang.String) -> r
+    java.lang.String getSharedPrefsNameByNotificationId(java.lang.String) -> s
+    void initialize(android.app.Activity,com.unity.androidnotifications.NotificationCallback) -> t
+    boolean isInForeground() -> u
+    android.graphics.Bitmap loadBitmap(java.lang.String) -> v
+    java.util.List loadSavedNotifications() -> w
+    com.unity.androidnotifications.NotificationChannelWrapper notificationChannelToWrapper(java.lang.Object) -> x
+    void notify(int,android.app.Notification) -> y
+    void performNotificationHousekeeping(java.util.Set) -> z
+com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver -> com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver:
+    void rescheduleSavedNotifications(android.content.Context) -> a
+com.unity.androidnotifications.UnityNotificationUtilities -> com.unity.androidnotifications.e:
+    byte[] UNITY_MAGIC_NUMBER_PARCELLED -> b
+    byte[] UNITY_MAGIC_NUMBER -> a
+    java.lang.Object deserializeNotification(android.content.Context,android.content.SharedPreferences) -> a
+    java.lang.Object deserializeNotification(android.content.Context,byte[]) -> b
+    android.app.Notification$Builder deserializeNotificationCustom(android.content.Context,java.io.DataInputStream) -> c
+    android.app.Notification deserializeNotificationParcelable(java.io.DataInputStream) -> d
+    android.os.Parcelable deserializeParcelable(java.io.DataInputStream) -> e
+    java.lang.String deserializeString(java.io.DataInputStream) -> f
+    android.app.Notification$Builder deserializedFromOldIntent(android.content.Context,byte[]) -> g
+    int findResourceIdInContextByName(android.content.Context,java.lang.String) -> h
+    java.lang.Class getOpenAppActivity(android.content.Context) -> i
+    boolean isUnityActivity(java.lang.String) -> j
+    boolean readAndCheckMagicNumber(java.io.DataInputStream,byte[]) -> k
+    android.app.Notification$Builder recoverBuilder(android.content.Context,android.app.Notification) -> l
+    android.app.Notification$Builder recoverBuilderCustom(android.content.Context,android.app.Notification) -> m
+    void serializeNotification(android.content.SharedPreferences,android.app.Notification,boolean) -> n
+    boolean serializeNotificationCustom(android.app.Notification,java.io.DataOutputStream) -> o
+    boolean serializeNotificationParcel(android.content.Intent,java.io.DataOutputStream) -> p
+    byte[] serializeParcelable(android.os.Parcelable) -> q
+    void serializeString(java.io.DataOutputStream,java.lang.String) -> r
+com.unity3d.player.B -> com.unity3d.player.B:
+    int -$$Nest$sfgeta() -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    int -$$Nest$sfgetb() -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    int -$$Nest$sfgetc() -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.C -> com.unity3d.player.C:
+    android.content.Context -$$Nest$fgeta(com.unity3d.player.C) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.UnityPlayer -$$Nest$fgetb(com.unity3d.player.C) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$ma(com.unity3d.player.C,java.lang.String,boolean) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.String -$$Nest$mb(com.unity3d.player.C) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.HFPStatus -> com.unity3d.player.HFPStatus:
+    boolean -$$Nest$fgetc(com.unity3d.player.HFPStatus) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.media.AudioManager -$$Nest$fgetd(com.unity3d.player.HFPStatus) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$fgete(com.unity3d.player.HFPStatus) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fpute(com.unity3d.player.HFPStatus,boolean) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputf(com.unity3d.player.HFPStatus,com.unity3d.player.HFPStatus$a) -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.J -> com.unity3d.player.J:
+    com.unity3d.player.a -$$Nest$fgeta(com.unity3d.player.J) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.UnityPlayer -$$Nest$fgetb(com.unity3d.player.J) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.w -$$Nest$fgetc(com.unity3d.player.J) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.M -> com.unity3d.player.M:
+    void -$$Nest$fputb(com.unity3d.player.M,boolean) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.NetworkConnectivityNougat -> com.unity3d.player.NetworkConnectivityNougat:
+    void -$$Nest$fputb(com.unity3d.player.NetworkConnectivityNougat,int) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.ReflectionHelper -> com.unity3d.player.ReflectionHelper:
+    long -$$Nest$sfgetb() -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$smnativeProxyFinalize(long) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.Object -$$Nest$smnativeProxyInvoke(long,java.lang.String,java.lang.Object[]) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$smnativeProxyLogJNIInvokeException(long) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.ReflectionHelper$a -> com.unity3d.player.ReflectionHelper$a:
+    void -$$Nest$fputd(com.unity3d.player.ReflectionHelper$a,long) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fpute(com.unity3d.player.ReflectionHelper$a,boolean) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.ReflectionHelper$b -> com.unity3d.player.ReflectionHelper$b:
+    int -$$Nest$fgetd(com.unity3d.player.ReflectionHelper$b) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.UnityPlayer -> com.unity3d.player.UnityPlayer:
+    void -$$Nest$mnativeSendSurfaceChangedEvent(com.unity3d.player.UnityPlayer) -> A
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetInputArea(com.unity3d.player.UnityPlayer,int,int,int,int) -> B
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetInputSelection(com.unity3d.player.UnityPlayer,int,int) -> C
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetInputString(com.unity3d.player.UnityPlayer,java.lang.String) -> D
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetKeyboardIsVisible(com.unity3d.player.UnityPlayer,boolean) -> E
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSetLaunchURL(com.unity3d.player.UnityPlayer,java.lang.String) -> F
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSoftInputCanceled(com.unity3d.player.UnityPlayer) -> G
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSoftInputClosed(com.unity3d.player.UnityPlayer) -> H
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeSoftInputLostFocus(com.unity3d.player.UnityPlayer) -> I
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mshutdown(com.unity3d.player.UnityPlayer) -> J
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.app.Activity -$$Nest$fgetmActivity(com.unity3d.player.UnityPlayer) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.content.Context -$$Nest$fgetmContext(com.unity3d.player.UnityPlayer) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.J -$$Nest$fgetmGlView(com.unity3d.player.UnityPlayer) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    int -$$Nest$fgetmInitialScreenOrientation(com.unity3d.player.UnityPlayer) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$fgetmMainDisplayOverride(com.unity3d.player.UnityPlayer) -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+    int -$$Nest$fgetmNaturalOrientation(com.unity3d.player.UnityPlayer) -> f
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.D -$$Nest$fgetm_SplashScreen(com.unity3d.player.UnityPlayer) -> g
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.IUnityPlayerLifecycleEvents -$$Nest$fgetm_UnityPlayerLifecycleEvents(com.unity3d.player.UnityPlayer) -> h
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputmQuitting(com.unity3d.player.UnityPlayer,boolean) -> i
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputmVideoPlayerProxy(com.unity3d.player.UnityPlayer,com.unity3d.player.V) -> j
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputm_SplashScreen(com.unity3d.player.UnityPlayer,com.unity3d.player.D) -> k
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mDisableStaticSplashScreen(com.unity3d.player.UnityPlayer) -> l
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mfinish(com.unity3d.player.UnityPlayer) -> m
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mgetAutoReportFullyDrawnEnabled(com.unity3d.player.UnityPlayer) -> n
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mgetHaveAndroidWindowSupport(com.unity3d.player.UnityPlayer) -> o
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mgetSplashEnabled(com.unity3d.player.UnityPlayer) -> p
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeFocusChanged(com.unity3d.player.UnityPlayer,boolean) -> q
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mnativeIsAutorotationOn(com.unity3d.player.UnityPlayer) -> r
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeLowMemory(com.unity3d.player.UnityPlayer) -> s
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeMuteMasterAudio(com.unity3d.player.UnityPlayer,boolean) -> t
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeOrientationChanged(com.unity3d.player.UnityPlayer,int,int) -> u
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mnativePause(com.unity3d.player.UnityPlayer) -> v
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeRecreateGfxState(com.unity3d.player.UnityPlayer,int,android.view.Surface) -> w
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$mnativeRender(com.unity3d.player.UnityPlayer) -> x
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeReportKeyboardConfigChanged(com.unity3d.player.UnityPlayer) -> y
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mnativeResume(com.unity3d.player.UnityPlayer) -> z
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.UnityPlayer$A-IA -> com.unity3d.player.a0:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.UnityPlayer$C-IA -> com.unity3d.player.b0:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.UnityPlayer$D-IA -> com.unity3d.player.c0:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.V -> com.unity3d.player.V:
+    com.unity3d.player.UnityPlayer -$$Nest$fgeta(com.unity3d.player.V) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.content.Context -$$Nest$fgetb(com.unity3d.player.V) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.util.concurrent.Semaphore -$$Nest$fgetd(com.unity3d.player.V) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.util.concurrent.locks.Lock -$$Nest$fgete(com.unity3d.player.V) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.N -$$Nest$fgetf(com.unity3d.player.V) -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean -$$Nest$fgeti(com.unity3d.player.V) -> f
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputf(com.unity3d.player.V,com.unity3d.player.N) -> g
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputg(com.unity3d.player.V,int) -> h
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputi(com.unity3d.player.V,boolean) -> i
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$ma(com.unity3d.player.V) -> j
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.a.a -> b.a:
+com.unity3d.player.a.b -> b.b:
+com.unity3d.player.a.c -> b.c:
+com.unity3d.player.a.d -> b.d:
+    com.unity3d.player.IPermissionRequestCallbacks -$$Nest$fgeta(com.unity3d.player.a.d) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.c -> com.unity3d.player.c:
+    java.util.HashSet -$$Nest$fgeta(com.unity3d.player.c) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.i -> com.unity3d.player.i:
+    com.google.android.play.core.assetpacks.AssetPackManager -$$Nest$fgeta(com.unity3d.player.i) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.util.HashSet -$$Nest$fgetb(com.unity3d.player.i) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.Object -$$Nest$fgetc(com.unity3d.player.i) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputc(com.unity3d.player.i,java.lang.Object) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.unity3d.player.i -$$Nest$sfgetd() -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+    int -$$Nest$sma(java.lang.Throwable) -> f
+      # {"id":"com.android.tools.r8.synthesized"}
+com.unity3d.player.s -> com.unity3d.player.s:
+    com.unity3d.player.a.a -$$Nest$fgeta(com.unity3d.player.s) -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.hardware.camera2.CameraDevice -$$Nest$fgetb(com.unity3d.player.s) -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.util.Range -$$Nest$fgetn(com.unity3d.player.s) -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.media.Image -$$Nest$fgetp(com.unity3d.player.s) -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.hardware.camera2.CaptureRequest$Builder -$$Nest$fgetq(com.unity3d.player.s) -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.Object -$$Nest$fgets(com.unity3d.player.s) -> f
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.view.Surface -$$Nest$fgetv(com.unity3d.player.s) -> g
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputb(com.unity3d.player.s,android.hardware.camera2.CameraDevice) -> h
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputp(com.unity3d.player.s,android.media.Image) -> i
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputq(com.unity3d.player.s,android.hardware.camera2.CaptureRequest$Builder) -> j
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$fputr(com.unity3d.player.s,android.hardware.camera2.CameraCaptureSession) -> k
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$ma(com.unity3d.player.s,android.hardware.camera2.CameraDevice) -> l
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$ma(com.unity3d.player.s,java.lang.Object) -> m
+      # {"id":"com.android.tools.r8.synthesized"}
+    void -$$Nest$mf(com.unity3d.player.s) -> n
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.util.concurrent.Semaphore -$$Nest$sfgetD() -> o
+      # {"id":"com.android.tools.r8.synthesized"}
+com.yasirkula.unity.NativeShareContentProvider -> com.yasirkula.unity.NativeShareContentProvider:
+    com.yasirkula.unity.NativeShareContentProvider$PathStrategy mStrategy -> a
+    java.io.File DEVICE_ROOT -> c
+    java.util.HashMap sCache -> d
+    java.lang.String[] COLUMNS -> b
+    java.io.File buildPath(java.io.File,java.lang.String[]) -> a
+    java.lang.Object[] copyOf(java.lang.Object[],int) -> b
+    java.lang.String[] copyOf(java.lang.String[],int) -> c
+    com.yasirkula.unity.NativeShareContentProvider$PathStrategy getPathStrategy(android.content.Context,java.lang.String) -> d
+    int modeToMode(java.lang.String) -> e
+    com.yasirkula.unity.NativeShareContentProvider$PathStrategy parsePathStrategy(android.content.Context,java.lang.String) -> f
+com.yasirkula.unity.NativeShareContentProvider$PathStrategy -> com.yasirkula.unity.NativeShareContentProvider$a:
+    java.io.File getFileForUri(android.net.Uri) -> a
+com.yasirkula.unity.NativeShareContentProvider$SimplePathStrategy -> com.yasirkula.unity.NativeShareContentProvider$b:
+    java.util.HashMap mRoots -> b
+    java.lang.String mAuthority -> a
+    java.io.File getFileForUri(android.net.Uri) -> a
+    void addRoot(java.lang.String,java.io.File) -> b
